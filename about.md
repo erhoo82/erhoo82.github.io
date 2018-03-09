@@ -13,7 +13,7 @@ layout: page
 <hr>
 <ul> 
     <li>
-    <div style="float: left"><b>The Univerisity of Texas at Austin, Graduate Research Assistant</b></div>
+    <div style="float: left"><b>The Univerisity of Texas at Austin, </b><i>Graduate Research Assistant</i></div>
     <div style="float: right">2015.08 - Present</div>
     <br>Memory system parallelism
     <br>(Micro)Architecture and level fault injection modeling and application fault tolerance analysis
@@ -21,13 +21,13 @@ layout: page
     </li><br>
 
     <li>
-    <div style="float: left"><b>NVIDIA Research, Research Intern</b></div>
+    <div style="float: left"><b>NVIDIA Research, </b><i>Research Intern</i></div>
     <div style="float: right">2017.05 - 2017.08</div>
     <br>Deep learning workload analysis, GPU memory system architecture
     </li><br>
 
     <li>
-    <div style="float: left"><b>HPE Labs, Research Intern</b></div>
+    <div style="float: left"><b>HPE Labs, </b ><i>Research Intern</i></div>
     <div style="float: right">2016.05 - 2016.08</div>
     <br>Psersistent memory system architecture, Memory centric computing, DRAM cache modeling
     </li>
@@ -37,7 +37,7 @@ layout: page
 <hr>
 <ul> 
     <li>
-    <div style="float: left"><b>SK hynix, DRAM architecture design & performance evaulation engieer</b></div>
+    <div style="float: left"><b>SK hynix, </b><i>DRAM architecture design & performance evaulation engieer</i></div>
     <div style="float: right">2012.04 - 2015.07</div>
     <br>DDR4-Extension features development and evaluation for memory system parallelism
     <br>Next generation DRAM features evaluation and proposal
@@ -45,7 +45,7 @@ layout: page
     </li><br>
 
     <li>
-    <div style="float: left"><b>SK hynix, PCRAM architecture & circuit design engineer</b></div>
+    <div style="float: left"><b>SK hynix, </b><i>PCRAM architecture & circuit design engineer</i></div>
     <div style="float: right">2007.12 - 2012.04</div>
     <br>PCRAM architecture design and memory core functionality optimization
     <br>PCRAM data interface design and physical layout design
