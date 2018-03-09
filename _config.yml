@@ -36,10 +36,11 @@ disqus:
 # if you don't have any of social below, comment the line
 facebook: https://www.facebook.com/sangkug.lym
 #twitter: mytwitter
-google: https://scholar.google.co.kr/citations?user=bGc7lRMAAAAJ&hl=en
+#google: https://scholar.google.co.kr/citations?user=bGc7lRMAAAAJ&hl=en
+googlescholar: citations?user=bGc7lRMAAAAJ&hl=en
 # instagram: myinstagram
 # pinterest: mypinterest
-linkedin: https://www.linkedin.com/in/sangkug-lym-1827b566
+linkedin: sangkug-lym-1827b566
 # youtube: myyoutube
 # spotify: myspotify
 # github: mygithub
