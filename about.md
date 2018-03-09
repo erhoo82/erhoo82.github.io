@@ -5,10 +5,12 @@ layout: page
 ![Profile Image]({{ site.url }}/{{ site.picture }})
 
 <h2>About me</h2>
+<hr>
 <p>I am a third year Ph.D student at UT Austin and I am getting research advice from <a href="https://lph.ece.utexas.edu/merez/MattanErez/MattanErez" style="text-decoration : none;color: #cc0000"> Professor Mattan Erez</a>. My current research interests are i) energy efficient and high performance memory system ii) system fault resilience iii) machine learning accelerators.
 </p>
 
 <h2>Research experience</h2>
+<hr>
 <ul> 
     <li>
     <div style="float: left"><b>The Univerisity of Texas at Austin, Graduate Research Assistant</b></div>
@@ -32,6 +34,7 @@ layout: page
 </ul>
 
 <h2>Work experience</h2>
+<hr>
 <ul> 
     <li>
     <div style="float: left"><b>SK hynix, DRAM architecture design & performance evaulation engieer</b></div>
