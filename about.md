@@ -39,7 +39,7 @@ layout: page
     <br>DDR4-Extension features development and evaluation for memory system parallelism
     <br>Next generation DRAM features evaluation and proposal
     <br>Contribution to DDR4 & DDR4-Extension JEDEC standardization as the representative of SK hynix
-    </li>
+    </li><br>
 
     <li>
     <div style="float: left"><b>SK hynix, PCRAM architecture & circuit design engineer</b></div>
@@ -78,7 +78,7 @@ layout: page
     <br>Jungrae Kim, Michael Sullivan, <b>Sangkug Lym</b>, and Mattan Erez
     <br><i>International Symposium on Computer Architecture (ISCA), June 2016.</i>
     </li><br>
-    <a herf="http://lph.ece.utexas.edu/merez/uploads/MattanErez/isca2016_aiecc.pdf">[PDF]</a><br>
+    <a herf="http://lph.ece.utexas.edu/merez/uploads/MattanErez/isca2016_aiecc.pdf">[PDF]</a>
 </ul>
 
 <h2>Invited Talks</h2>
