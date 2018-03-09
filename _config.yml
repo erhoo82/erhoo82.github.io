@@ -16,7 +16,7 @@ resume: true
 resume-external: true
 resume-url: https://drive.google.com/open?id=1kMoHBXpDS9aOhljQXU-dnvPOhFB-6c2o
 
-url: https://koppl.in/indigo
+#url: https://koppl.in/indigo
 # your url: http://USERNAME.github.io
 
 permalink: /:title/
@@ -34,13 +34,14 @@ disqus:
   categories: [blog, project] # only show disqus for posts that have these categories
 
 # if you don't have any of social below, comment the line
-facebook: https://www.facebook.com/sangkug.lym
+facebook: sangkug.lym
+googlescholar: citations?user=bGc7lRMAAAAJ&hl=en
+linkedin: sangkug-lym-1827b566
+email: sklym@utexas.edu 
 #twitter: mytwitter
 #google: https://scholar.google.co.kr/citations?user=bGc7lRMAAAAJ&hl=en
-googlescholar: citations?user=bGc7lRMAAAAJ&hl=en
 # instagram: myinstagram
 # pinterest: mypinterest
-linkedin: sangkug-lym-1827b566
 # youtube: myyoutube
 # spotify: myspotify
 # github: mygithub
@@ -51,7 +52,6 @@ linkedin: sangkug-lym-1827b566
 # medium: medium
 # vimeo: myvimeo
 # lanyrd: mylanyrd
-email: sklym@utexas.edu 
 
 # do you want a larger site? change the option below
 # options: [normal, large] | default: normal
@@ -63,10 +63,10 @@ width: normal
 # paginate_path: "blog/:num/"
 
 # if you don't need projects, comment the *projects* configs below
-projects: true
+about: true
+#projects: true
 
 # if you don't need "about" or "blog", comment them out below
-about: true
 #blog: true
 
 # do you want to show the "read time" of the posts?
