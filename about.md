@@ -4,10 +4,15 @@ layout: page
 ---
 ![Profile Image]({{ site.url }}/{{ site.picture }})
 
+<h2>About me</h2>
 <p>Hi.</p>
 
 <h2>Research experience</h2>
 <hr>
+    <li>
+    NVIDIA Research, 
+    research Intern
+    </li>
 <h2>Work experience</h2>
 <hr>
 <h2>Pulibication</h2>
