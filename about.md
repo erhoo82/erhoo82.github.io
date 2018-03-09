@@ -4,13 +4,11 @@ layout: page
 ---
 ![Profile Image]({{ site.url }}/{{ site.picture }})
 
-<h2>About me</h2>
-<hr>
+<h2>About me<hr></h2>
 <p>I am a third year Ph.D student at UT Austin and I am getting research advice from <a href="https://lph.ece.utexas.edu/merez/MattanErez/MattanErez" style="text-decoration : none;color: #cc0000"> Professor Mattan Erez</a>. My current research interests are i) energy efficient and high performance memory system ii) system fault resilience iii) machine learning accelerators.
 </p>
 
-<h2>Research experience</h2>
-<hr>
+<h2>Research experience<hr></h2>
 <ul> 
     <li>
     <div style="float: left"><b>The Univerisity of Texas at Austin, <i>Graduate Research Assistant</i></b></div>
@@ -33,9 +31,7 @@ layout: page
     </li>
 </ul>
 
-<h2>Work experience
-<hr>
-</h2>
+<h2>Work experience<hr></h2>
 <ul> 
     <li>
     <div style="float: left"><b>SK hynix, <i>DRAM architecture design & performance evaulation engieer</i></b></div>
@@ -54,8 +50,7 @@ layout: page
     </li>
 </ul>
 
-<h2>Pulibication
-<hr></h2>
+<h2>Pulibication<hr></h2>
 <ul>
     <li>
     <b>ERUCA: Efficient DRAM Resource Utilization and Resource Conflict Avoidance for Memory System Parallelism,</b>
@@ -86,7 +81,7 @@ layout: page
     </li>
 </ul>
 
-<h2>Talks</h2>
+<h2>Related course<hr></h2>
 
 <!--
 <h2>Skills</h2>
