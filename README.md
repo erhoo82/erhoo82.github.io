@@ -1,66 +1,130 @@
-<p align="center">
-    <h2 align="center">Indigo Minimalist Jekyll Template - <a href="http://sergiokopplin.github.io/indigo/">Demo</a> · <a href="https://travis-ci.org/sergiokopplin/indigo"><img src="https://camo.githubusercontent.com/5393485b732749b3499264168fa8af60166071e8/68747470733a2f2f7472617669732d63692e6f72672f73657267696f6b6f70706c696e2f696e6469676f2e7376673f6272616e63683d67682d7061676573" alt="Build Status" data-canonical-src="https://travis-ci.org/sergiokopplin/indigo.svg?branch=gh-pages" style="max-width:100%;"></a></h2>
-</p>
+# hugo Resume
 
-<p align="center">This is a simple and minimalist template for Jekyll for those who likes to eat noodles.</p>
+Created from [Start Bootstrap - Resume](https://startbootstrap.com/template-overviews/resume/).
 
-***
+This is basically a single-page website with auto-scrolling based on left-hand nav.  Dedicated project/publications pages allow more detail.  Includes a client-side search powered by fuse.js at '/search' but currently theme does not link to that anywhere.
 
-<p align="center">
-    <b><a href="README.md#what-has-inside">What has inside</a></b>
-    |
-    <b><a href="README.md#setup">Setup</a></b>
-    |
-    <b><a href="README.md#settings">Settings</a></b>
-    |
-    <b><a href="README.md#how-to">How to</a></b>
-</p>
+<!-- TOC depthFrom:1 depthTo:6 withLinks:1 updateOnSave:1 orderedList:0 -->
 
-<p align="center">
-    <img src="https://raw.githubusercontent.com/sergiokopplin/indigo/gh-pages/assets/screen-shot.png" />
-</p>
+- [hugo Resume](#hugo-resume)
+	- [Examples](#examples)
+	- [Setup & Use](#setup-use)
+		- [Summary](#summary)
+		- [Data files](#data-files)
+		- [Projects](#projects)
+		- [Publications](#publications)
+		- [Template params](#template-params)
+	- [Credits](#credits)
+		- [Start Bootstrap Resume](#start-bootstrap-resume)
 
-## What has inside
+<!-- /TOC -->
 
-- [Jekyll](https://jekyllrb.com/), [Sass](http://sass-lang.com/) ~[RSCSS](http://rscss.io/)~ and [SVG](https://www.w3.org/Graphics/SVG/)
-- Tests with [Travis](https://travis-ci.org/)
-- Google Speed: [98/100](https://developers.google.com/speed/pagespeed/insights/?url=http%3A%2F%2Fsergiokopplin.github.io%2Findigo%2F);
-- No JS. :sunglasses:
+## Examples
 
-## Setup
+![Sample](https://raw.githubusercontent.com/eddiewebb/hugo-resume/master/images/about.png)
 
-0. :star: to the project. :metal:
-2. Fork the project [Indigo](https://github.com/sergiokopplin/indigo/fork)
-3. Edit `_config.yml` with your data (check <a href="README.md#settings">settings</a> section)
-4. Write some posts :bowtie:
+![Sample](https://raw.githubusercontent.com/eddiewebb/hugo-resume/master/images/skills.png)
 
-If you want to test locally on your machine, do the following steps also:
+![Sample](https://raw.githubusercontent.com/eddiewebb/hugo-resume/master/images/projects.png)
 
-1. Install [Jekyll](http://jekyllrb.com), [NodeJS](https://nodejs.org/) and [Bundler](http://bundler.io/).
-2. Clone the forked repo on your machine
-3. Enter the cloned folder via terminal and run `bundle install`
-4. Then run `bundle exec jekyll serve --config _config.yml,_config-dev.yml`
-5. Open it in your browser: `http://localhost:4000`
-6. Test your app with `bundle exec htmlproofer ./_site`
-7. Do you want to use the [jekyll-admin](https://jekyll.github.io/jekyll-admin/) plugin to edit your posts? Go to the admin panel: `http://localhost:4000/admin`. The admin panel will not work on GitHub Pages, [only locally](https://github.com/jekyll/jekyll-admin/issues/341#issuecomment-292739469).
+![Sample](https://raw.githubusercontent.com/eddiewebb/hugo-resume/master/images/search.png)
 
-## Settings
+See [Eddie's site](https://edwardawebb.com) for a live example.
 
-You must fill some informations on `_config.yml` to customize your site.
+## Setup & Use
+
+This theme uses a combination of a custom archetype `projects` and some data files to drive content.
+
+You can test the provided [exampleSite](exampleSite) after cloning with the command:
+`cd exampleSite;hugo -t hugo-resume --themesDir ../.. server`
+
+### Summary
+Edit the main `contents/_index.md with a brief bio/summary`
+
+### Data files
+Data files are used for simple content presented on the homepage.
+
+- [data/skills.json](https://github.com/eddiewebb/hugo-resume/blob/master/exampleSite/data/skills.json)
+- [data/experience.json](https://github.com/eddiewebb/hugo-resume/blob/master/exampleSite/data/experience.json)
+- [data/education.json](https://github.com/eddiewebb/hugo-resume/blob/master/exampleSite/data/education.json)
+
+### Projects
+Initially projects were in their own JSON file too, but I decided I wanted to allow more detail and custom formatting.
+Projects are added to one of 2 subfolders of `creations` or `contributions`. The difference indicates your role as originator or colaborator.   Use `hugo add projects/TYPE/name-of-project.md` to leverage the proper archetype.
+
+### Publications
+Similar to projects, creste them under `publications`. INclude any papers, speaking engagemnents, articles, etc.
+
+### Template params
+
+All personal information outside the above details is captured by params in [`config.toml`](https://github.com/eddiewebb/hugo-resume/blob/master/exampleSite/config.toml)
 
 ```
-name: John Doe
-bio: 'A Man who travels the world eating noodles'
-picture: 'assets/images/profile.jpg'
-...
+[params]
+    firstName = "Eddie"
+    lastName = "Webb"
+    address = "Rollinsford, NH"
+    profileImage = "img/me.png"
+    email = "email@domain.com"
+    description = "Software Platform Engineer with experience leveraging agile, DevOps, and CI/CD to manage large scale distributed platforms both on prem and in public cloud."
+    favicon = "images/favicon.ico"
 
-and lot of other options, like width, projects, pages, read-time, tags, related posts, animations, multiple-authors, etc.
+    # what sections to display.  Setting to false disables navigation and section.
+    showSkills = true
+    showProjects = true
+    showOpenSource = true
+    showPublications = true
+    showExperience = true
+    showEducation = true
+
+    # do you want to show git hash on page footer and link to repo? Add commit URl for repo here.
+    gitCommitPrefix = "https://github.com/YOURNAME/REPONAME/commit/"
+
+
+[[params.handles]]
+    name = "LinkedIn"
+    link = "https://www.linkedin.com/in/edwardwebb/"
+
+[[params.handles]]
+    name = "GitHub"
+    link = "https://github.com/eddiewebb/"
+
+[[params.handles]]
+    name = "Bitbucket"
+    link = "https://bitbucket.org/eddiewebb/"
+
+[[params.handles]]
+    name = "Stack Overflow"
+    link = "https://stackoverflow.com/users/story/82880"
+    icon = "stack-overflow" #optional icon attribute used for Font Awesome icons, otherwise the name is lowercased.
+
+[[params.handles]]
+    name = "Keybase"
+    link = "https://keybase.io/edwardawebb"
+    icon = "key" #optional icon attribute used for Font Awesome icons, otherwise the name is lowercased.
+
+[params.google.analytics]
+    trackerID = "XX-123446-01"
+
+[outputs] #only required for search
+    home = ["HTML", "JSON"]
 ```
 
-## How To?
+## Credits
 
-Check the [FAQ](./FAQ.md) if you have any doubt or problem.
+This project ports the Start Bootstrap Resume theme by David Miller to support hugo.
 
----
+### Start Bootstrap Resume
 
-[MIT](http://kopplin.mit-license.org/) License © Sérgio Kopplin
+Start Bootstrap is an open source library of free Bootstrap templates and themes. All of the free templates and themes on Start Bootstrap are released under the MIT license, which means you can use them for any purpose, even for commercial projects.
+
+* https://startbootstrap.com
+* https://twitter.com/SBootstrap
+
+Start Bootstrap was created by and is maintained by **[David Miller](http://davidmiller.io/)**, Owner of [Blackrock Digital](http://blackrockdigital.io/).
+
+* http://davidmiller.io
+* https://twitter.com/davidmillerskt
+* https://github.com/davidtmiller
+
+Start Bootstrap is based on the [Bootstrap](http://getbootstrap.com/) framework created by [Mark Otto](https://twitter.com/mdo) and [Jacob Thorton](https://twitter.com/fat).
