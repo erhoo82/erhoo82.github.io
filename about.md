@@ -33,8 +33,9 @@ layout: page
     </li>
 </ul>
 
-<h2>Work experience</h2>
+<h2>Work experience
 <hr>
+</h2>
 <ul> 
     <li>
     <div style="float: left"><b>SK hynix, <i>DRAM architecture design & performance evaulation engieer</i></b></div>
@@ -53,7 +54,8 @@ layout: page
     </li>
 </ul>
 
-<h2>Pulibication</h2>
+<h2>Pulibication
+<hr></h2>
 <ul>
     <li>
     <b>ERUCA: Efficient DRAM Resource Utilization and Resource Conflict Avoidance for Memory System Parallelism,</b>
