@@ -10,7 +10,7 @@ layout: page
 <h2>Research experience</h2>
 <ul> 
     <li>
-    <b>NVIDIA Research, Research Interni<\b> (2017.05 - 2017.08) <br>
+    <b>NVIDIA Research, Research Interni</b> (2017.05 - 2017.08) <br>
     Deep learning accelerator, Deep learning workload analysis, GPU memory system architecture
     </li>
 </ul>
