@@ -5,7 +5,8 @@ layout: page
 ![Profile Image]({{ site.url }}/{{ site.picture }})
 
 <h2>About me</h2>
-<p>Hi.</p>
+<p>I am a third year Ph.D student at UT Austin and I am getting research advice from <a href="https://lph.ece.utexas.edu/merez/MattanErez/MattanErez"> Professor Mattan Erez</a>. My current research interests are i) energy efficient and high performance memory system ii) system fault resilience iii) machine learning accelerators.
+</p>
 
 <h2>Research experience</h2>
 <ul> 
@@ -26,7 +27,7 @@ layout: page
     <li>
     <div style="float: left"><b>HPE Labs, Research Intern</b></div>
     <div style="float: right">2016.05 - 2016.08</div>
-    <br>Psersistent memory system architecture, Memory centric computing, DRAM cache modeling>
+    <br>Psersistent memory system architecture, Memory centric computing, DRAM cache modeling
     </li>
 </ul>
 
@@ -50,6 +51,31 @@ layout: page
 </ul>
 
 <h2>Pulibication</h2>
+<ul>
+    <li>
+    <b>ERUCA: Efficient DRAM Resource Utilization and Resource Conflict Avoidance for Memory System Parallelism,</b>
+    <br><b>Sangkug Lym</b>, Heonjae Ha, Yongkee Kwon, Chunkai Chang, Jungrae Kim, and Mattan Erez
+    <br><i>International Symposium on High-Performance Computer Architecture (HPCA), Feb 2018</i>
+    </li>
+
+    <li>
+    <b>DUO: Exposing On-chip Redundancy to Rank-Level ECC for High Reliability,</b>
+    <br>Seong-Lyong Gong, Jungrae Kim, <b>Sangkug Lym</b>, Michael Sullivan, Howard David, and Mattan Erez
+    <br><i>International Symposium on High-Performance Computer Architecture (HPCA), Feb 2018</i>
+    </li>
+
+    <li>
+    <b>Hamartia: A Fast and Accurate Error Injection Framework,</b>
+    <br>Chun-Kai Chang, <b>Sangkug Lym</b>, Mattan Erez
+    <br><i>Silicon Errors in Logic – System Effects (SELSE), 2018, Apr 2018</i>
+    </li>
+
+    <li>
+    <b>All-Inclusive ECC: Thorough End-to- End Protection for Reliable Computer Memory,</b>
+    <br>Jungrae Kim, Michael Sullivan, <b>Sangkug Lym</b>, and Mattan Erez
+    <br><i>International Symposium on Computer Architecture (ISCA), June 2016.</i>
+    </li>
+</ul>
 
 <h2>Invited Talks</h2>
 
@@ -61,8 +87,3 @@ layout: page
     </font>
 </ul>
 
-<ul>
-	<li><a href="https://github.com/">Lorem Lorem</a></li>
-	<li><a href="https://github.com/">Ipsum Dolor</a></li>
-	<li><a href="https://github.com/">Dolor Lorem</a></li>
-</ul>
