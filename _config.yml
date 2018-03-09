@@ -1,6 +1,6 @@
 # main text of home
 name: Sangkug Lym
-bio: A Man who travels the world eating noodles
+#bio: A third year Ph.D student
 
 # twitter summary info
 description: A blog about technology and stuff related
@@ -14,7 +14,7 @@ picture: assets/images/profile.jpg
 # and specify source (external or local).
 resume: true
 resume-external: true
-resume-url: https://google.com/?q=my+resume
+resume-url: https://drive.google.com/open?id=1kMoHBXpDS9aOhljQXU-dnvPOhFB-6c2o
 
 url: https://koppl.in/indigo
 # your url: http://USERNAME.github.io
