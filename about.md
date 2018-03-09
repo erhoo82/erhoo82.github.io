@@ -83,9 +83,10 @@ layout: page
 
 <h2>Talks</h2>
 
-#<h2>Skills</h2>
-#<ul class="skill-list">
-#	<li>HTML - Jade - Haml - Erb</li>
-#	<li>Responsive (Mobile First)</li>
-#</ul>
-
+<!--
+<h2>Skills</h2>
+<ul class="skill-list">
+	<li>HTML - Jade - Haml - Erb</li>
+	<li>Responsive (Mobile First)</li>
+</ul>
+-->
