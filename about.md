@@ -7,13 +7,20 @@ layout: page
 <p>Hi.</p>
 
 <h2>Research experience</h2>
+<hr>
 <h2>Work experience</h2>
+<hr>
 <h2>Pulibication</h2>
+<hr>
 <h2>Invited Talks</h2>
+<hr>
 <h2>Skills</h2>
+<hr>
 <ul class="skill-list">
-	<li><font color="black">HTML - Jade - Haml - Erb</font></li>
+    <font color="black">
+	<li>HTML - Jade - Haml - Erb</li>
 	<li>Responsive (Mobile First)</li>
+    </font>
 </ul>
 
 <ul>
