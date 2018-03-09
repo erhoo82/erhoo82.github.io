@@ -37,7 +37,7 @@ layout: page
 <hr>
 <ul> 
     <li>
-    <div style="float: left"><b>SK hynix, DRAM architecture design & performance evaulation engieer</b></div>
+    <div style="float: left"><strong>SK hynix, DRAM architecture design & performance evaulation engieer</strong></div>
     <div style="float: right">2012.04 - 2015.07</div>
     <br>DDR4-Extension features development and evaluation for memory system parallelism
     <br>Next generation DRAM features evaluation and proposal
