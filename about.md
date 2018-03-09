@@ -10,8 +10,8 @@ layout: page
 <h2>Research experience</h2>
 <ul> 
     <li>
-    <div class='left'> <b>NVIDIA Research, Research Intern</b> </div> 
-    <div class='right'> 2017.05 - 2017.08 </div>
+    <div style="float: left"><b>NVIDIA Research, Research Intern</b></div>
+    <div style="float: right">2017.05 - 2017.08</div>
     <br>Deep learning workload analysis, GPU memory system architecture
     </li>
 </ul>
