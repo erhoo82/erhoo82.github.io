@@ -12,7 +12,7 @@ layout: page
 <h2>Invited Talks</h2>
 <h2>Skills</h2>
 <ul class="skill-list">
-	<li><font color="black">HTML - Jade - Haml - Erb</fond></li>
+	<li><font color="black">HTML - Jade - Haml - Erb</font></li>
 	<li>Responsive (Mobile First)</li>
 </ul>
 
