@@ -9,10 +9,12 @@ layout: page
 
 <h2>Research experience</h2>
 <hr>
+<ul> 
     <li>
     NVIDIA Research, 
     research Intern
     </li>
+</ul>
 <h2>Work experience</h2>
 <hr>
 <h2>Pulibication</h2>
