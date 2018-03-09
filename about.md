@@ -16,13 +16,13 @@ layout: page
     <br>Memory system parallelism
     <br>(Micro)Architecture and level fault injection modeling and application fault tolerance analysis
     <br>Machine learning acceleration
-    </li>
+    </li><br>
 
     <li>
     <div style="float: left"><b>NVIDIA Research, Research Intern</b></div>
     <div style="float: right">2017.05 - 2017.08</div>
     <br>Deep learning workload analysis, GPU memory system architecture
-    </li>
+    </li><br>
 
     <li>
     <div style="float: left"><b>HPE Labs, Research Intern</b></div>
@@ -81,13 +81,11 @@ layout: page
     </li>
 </ul>
 
-<h2>Invited Talks</h2>
+<h2>Talks</h2>
 
-<h2>Skills</h2>
-<ul class="skill-list">
-    <font color="black">
-	<li>HTML - Jade - Haml - Erb</li>
-	<li>Responsive (Mobile First)</li>
-    </font>
-</ul>
+#<h2>Skills</h2>
+#<ul class="skill-list">
+#	<li>HTML - Jade - Haml - Erb</li>
+#	<li>Responsive (Mobile First)</li>
+#</ul>
 
