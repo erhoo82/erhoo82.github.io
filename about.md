@@ -11,9 +11,9 @@ layout: page
 <h2>Research experience<hr></h2>
 <ul> 
     <li>
-    <b>The Univerisity of Texas at Austin, <i>Austin, Tx</i></b>
+    <b>The Univerisity of Texas at Austin (Austin, Tx)</b>
     <br>
-    <div style="float: left"><i>Graduate Research Assistant</i></div>
+    <div style="float: left"><b>Graduate Research Assistant</b></div>
     <div style="float: right">2015.08 - Present</div>
     <br>Memory system parallelism
     <br>(Micro)Architecture and level fault injection modeling and application fault tolerance analysis
@@ -21,17 +21,17 @@ layout: page
     </li><br>
 
     <li>
-    <b>NVIDIA Research, <i>Austin, TX</i></b>
+    <b>NVIDIA Research (Austin, TX)</b>
     <br>
-    <div style="float: left"><i>Research Intern</i></div>
+    <div style="float: left"><b>Research Intern</b></div>
     <div style="float: right">2017.05 - 2017.08</div>
     <br>Deep learning workload analysis, GPU memory system architecture
     </li><br>
 
     <li>
-    <b>Hewlett Packard Labs, <i>Palo Alto, CA</i></b >
+    <b>Hewlett Packard Labs (Palo Alto, CA)</b >
     <br>
-    <div style="float: left"><i>Research Intern</i></div>
+    <div style="float: left"><b>Research Intern</b></div>
     <div style="float: right">2016.05 - 2016.08</div>
     <br>Psersistent memory system architecture, Memory centric computing, DRAM cache modeling
     </li>
@@ -40,9 +40,9 @@ layout: page
 <h2>Work experience<hr></h2>
 <ul> 
     <li>
-    <b>SK hynix, <i>Ichon, Republic of Korea</i></b>
+    <b>SK hynix (Ichon, Republic of Korea)</b>
     <br>
-    <div style="float: left"><i>DRAM architecture design & performance evaulation engieer</i></div>
+    <div style="float: left"><b>DRAM architecture design & performance evaulation engieer</b></div>
     <div style="float: right">2012.04 - 2015.07</div>
     <br>DDR4-Extension features development and evaluation for memory system parallelism
     <br>Next generation DRAM features evaluation and proposal
@@ -50,9 +50,9 @@ layout: page
     </li><br>
 
     <li>
-    <b>SK hynix, <i>Ichon, Republic of Korea</i></b>
+    <b>SK hynix (Ichon, Republic of Korea)</b>
     <br>
-    <div style="float: left"><i>PCRAM architecture & circuit design engineer</i></div>
+    <div style="float: left"><b>PCRAM architecture & circuit design engineer</b></div>
     <div style="float: right">2007.12 - 2012.04</div>
     <br>PCRAM architecture design and memory core functionality optimization
     <br>PCRAM data interface design and physical layout design
