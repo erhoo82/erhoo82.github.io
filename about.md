@@ -11,25 +11,28 @@ layout: page
 <h2>Research experience<hr></h2>
 <ul> 
     <li>
-    <div style="float: left"><b>The Univerisity of Texas at Austin, <i>Austin, Tx</i></b></div>
+    <b>The Univerisity of Texas at Austin, <i>Austin, Tx</i></b>
+    <br>
+    <div style="float: left"><i>Graduate Research Assistant</i></div>
     <div style="float: right">2015.08 - Present</div>
-    <i>Graduate Research Assistant</i>
     <br>Memory system parallelism
     <br>(Micro)Architecture and level fault injection modeling and application fault tolerance analysis
     <br>Machine learning acceleration
     </li><br>
 
     <li>
-    <div style="float: left"><b>NVIDIA Research, <i>Austin, TX</i></b></div>
+    <b>NVIDIA Research, <i>Austin, TX</i></b>
+    <br>
+    <div style="float: left"><i>Research Intern</i></div>
     <div style="float: right">2017.05 - 2017.08</div>
-    <br><i>Research Intern</i>
     <br>Deep learning workload analysis, GPU memory system architecture
     </li><br>
 
     <li>
-    <div style="float: left"><b>Hewlett Packard Labs, <i>Palo Alto, CA</i></b ></div>
+    <b>Hewlett Packard Labs, <i>Palo Alto, CA</i></b >
+    <br>
+    <div style="float: left"><i>Research Intern</i></div>
     <div style="float: right">2016.05 - 2016.08</div>
-    <br><i>Research Intern</i>
     <br>Psersistent memory system architecture, Memory centric computing, DRAM cache modeling
     </li>
 </ul>
@@ -37,18 +40,20 @@ layout: page
 <h2>Work experience<hr></h2>
 <ul> 
     <li>
-    <div style="float: left"><b>SK hynix, <i>Ichon, Republic of Korea</i></b></div>
+    <b>SK hynix, <i>Ichon, Republic of Korea</i></b>
+    <br>
+    <div style="float: left"><i>DRAM architecture design & performance evaulation engieer</i></div>
     <div style="float: right">2012.04 - 2015.07</div>
-    <br><i>DRAM architecture design & performance evaulation engieer</i>
     <br>DDR4-Extension features development and evaluation for memory system parallelism
     <br>Next generation DRAM features evaluation and proposal
     <br>Contribution to DDR4 & DDR4-Extension JEDEC standardization as the representative of SK hynix
     </li><br>
 
     <li>
-    <div style="float: left"><b>SK hynix, <i>Ichon, Republic of Korea</i></b></div>
+    <b>SK hynix, <i>Ichon, Republic of Korea</i></b>
+    <br>
+    <div style="float: left"><i>PCRAM architecture & circuit design engineer</i></div>
     <div style="float: right">2007.12 - 2012.04</div>
-    <br><i>PCRAM architecture & circuit design engineer</i>
     <br>PCRAM architecture design and memory core functionality optimization
     <br>PCRAM data interface design and physical layout design
     <br>Wafer level PCRAM functiality analysis and SLC and MLC cell transition characteristic evaluation
