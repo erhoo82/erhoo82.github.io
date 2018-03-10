@@ -13,7 +13,7 @@ layout: page
     <li>
     <b>The Univerisity of Texas at Austin (Austin, Tx)</b>
     <br>
-    <div style="float: left"><b><i>Graduate Research Assistant</i></b></div>
+    <div style="float: left"><b><i>Graduate Research Assistant @<a href="https://lph.ece.utexas.edu/merez/MattanErez/Research" style="text-decoration : none;color: #cc0000">LPH Group</a></i></b></div>
     <div style="float: right">2015.08 - Present</div>
     <br>Memory system parallelism
     <br>(Micro)Architecture and level fault injection modeling and application fault tolerance analysis
@@ -23,7 +23,7 @@ layout: page
     <li>
     <b>NVIDIA Research (Austin, TX)</b>
     <br>
-    <div style="float: left"><b><i>Research Intern</i></b></div>
+    <div style="float: left"><b><i>Research Intern @Architecture Group</i></b></div>
     <div style="float: right">2017.05 - 2017.08</div>
     <br>Deep learning workload analysis, GPU memory system architecture
     </li><br>
@@ -31,7 +31,7 @@ layout: page
     <li>
     <b>Hewlett Packard Labs (Palo Alto, CA)</b >
     <br>
-    <div style="float: left"><b><i>Research Intern</i></b></div>
+    <div style="float: left"><b><i>Research Intern @Platform Architecture Group</i></b></div>
     <div style="float: right">2016.05 - 2016.08</div>
     <br>Psersistent memory system architecture, Memory centric computing, DRAM cache modeling
     </li>
@@ -52,7 +52,7 @@ layout: page
     <li>
     <b>SK hynix (Ichon, Republic of Korea)</b>
     <br>
-    <div style="float: left"><b><i>PCRAM architecture & circuit design engineer</i></b></div>
+    <div style="float: left"><b><i>PCRAM architecture & circuit design engineer @Next Generation Memory Team</i></b></div>
     <div style="float: right">2007.12 - 2012.04</div>
     <br>PCRAM architecture design and memory core functionality optimization
     <br>PCRAM data interface design and physical layout design
