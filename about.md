@@ -108,16 +108,16 @@ layout: page
 <ul>
     <li>
     <b>Sangkug Lym, "ERUCA: Efficient DRAM Resource Utilization and Resource Conflict Avoidance for Memory System Parallelism", </b> HPCA'18, Vienna, Austria
-    <\li>
+    </li>
     <li>
     <b>Sangkug Lym, "JEDEC DDR4 Workshop: DDR4 Operation Specifics", </b> 2013 DDR4 Workshop, Santa Clara, CA <a href="https://www.jedec.org/ddr4workshop" style="text-decoration : none;color: #cc0000">[VIDEO]</a>
-    <\li>
+    </li>
 
 <h2>Related Graduate Courses<hr></h2>
 <ul>
     <li>
-    <b>Computer Architecture and Computing System</b><br>
-    Computer Architecture (EE 382N 1) <br>
+    <b>Computer Architecture and System</b><br>
+       Computer Architecture (EE 382N 1) <br>
     High Speed Computer Arithmatics (EE 382N 14) <br>
     Computer Architecture: Parallelism & Locality (EE 382N 20) <br>
     Computer Architecture: User System Interplay (EE 382N 22) <br>
@@ -129,7 +129,7 @@ layout: page
 
     <li>
     <b>Machine Learning</b><br>
-    Machine Learning (CS 391L)
+    Machine Learning (CS 391L) <br>
     Neural Network (CS 394N)
     </li>
 
