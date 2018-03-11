@@ -9,6 +9,7 @@ layout: page
 </p>
 
 <h2>Education<hr></h2>
+<ul>
     <li>
     <div style="float: left"><b>Ph.D.<\b> in Electrical and Computer Engineering, <b>The Univerisity of Texas at Austin</b><br></div>
     <div style="float: right">08/2015 - Present</div>
@@ -17,6 +18,7 @@ layout: page
     <div style="float: left"><b>BS.<\b> in Electrical Engineering, <b>Hanyang University</b><br></div>
     <div style="float: right">02/2008</div>
     </li><br>
+</ul>
 
 
 <h2>Research experience<hr></h2>
