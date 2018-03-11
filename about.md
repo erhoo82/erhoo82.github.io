@@ -8,18 +8,6 @@ layout: page
 <p>I am a third year Ph.D student at UT Austin and I am getting research advice from <a href="https://lph.ece.utexas.edu/merez/MattanErez/MattanErez" style="text-decoration : none;color: #cc0000"> Professor Mattan Erez</a>. My current research interests are i) energy efficient and high performance memory system ii) system fault resilience iii) machine learning accelerators.
 </p>
 
-<h2>Education<hr></h2>
-<ul>
-    <li>
-    <div style="float: left"><b>Ph.D.</b> in Electrical and Computer Engineering, <b>The Univerisity of Texas at Austin</b>, Austin, TX</div>
-    <div style="float: right">08/2015 - Present</div>
-    </li>
-    <li>
-    <div style="float: left"><b>BS.</b> in Electrical Engineering, <b>Hanyang University</b>, Republic of Korea</div>
-    <div style="float: right">02/2008</div>
-    </li>
-</ul>
-
 
 <h2>Research experience<hr></h2>
 <ul> 
@@ -114,10 +102,22 @@ layout: page
     </li>
 </ul>
 
+<h2>Education<hr></h2>
+<ul>
+    <li>
+    <div style="float: left"><b>Ph.D.</b> in Electrical and Computer Engineering, <b>The Univerisity of Texas at Austin</b>, Austin, TX</div>
+    <div style="float: right">08/2015 - Present</div>
+    </li>
+    <li>
+    <div style="float: left"><b>BS.</b> in Electrical Engineering, <b>Hanyang University</b>, Republic of Korea</div>
+    <div style="float: right">02/2008</div>
+    </li>
+</ul>
+
 <h2>Related Graduate Courses<hr></h2>
 <ul>
-    <h3>Computer Architecture and System</h3>
-    <li>Computer Architecture (EE 382N 1) <br>
+    <li><b>Computer Architecture and System</b><br>
+    Computer Architecture (EE 382N 1) <br>
     High Speed Computer Arithmatics (EE 382N 14) <br>
     Computer Architecture: Parallelism & Locality (EE 382N 20) <br>
     Computer Architecture: User System Interplay (EE 382N 22) <br>
