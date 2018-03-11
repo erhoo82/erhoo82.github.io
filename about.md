@@ -52,7 +52,7 @@ layout: page
     <li>
     <b>SK hynix (Ichon, Republic of Korea)</b>
     <br>
-    <div style="float: left"><b><i>PCRAM architecture & circuit design engineer @Next Generation Memory Team</i></b></div>
+    <div style="float: left"><b><i>PCRAM architecture & circuit design engineer @Next Generation Memory Design Team</i></b></div>
     <div style="float: right">2007.12 - 2012.04</div>
     <br>PCRAM architecture design and memory core functionality optimization
     <br>PCRAM data interface design and physical layout design
