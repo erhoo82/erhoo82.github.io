@@ -112,6 +112,7 @@ layout: page
     <li>
     <b>Sangkug Lym, "JEDEC DDR4 Workshop: DDR4 Operation Specifics", </b> 2013 DDR4 Workshop, Santa Clara, CA <a href="https://www.jedec.org/ddr4workshop" style="text-decoration : none;color: #cc0000">[VIDEO]</a>
     </li>
+</ul>
 
 <h2>Related Graduate Courses<hr></h2>
 <ul>
@@ -132,6 +133,7 @@ layout: page
     Machine Learning (CS 391L) <br>
     Neural Network (CS 394N)
     </li>
+</ul>
 
 <!--
 <h2>Skills</h2>
