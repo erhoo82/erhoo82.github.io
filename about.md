@@ -11,11 +11,11 @@ layout: page
 <h2>Education<hr></h2>
 <ul>
     <li>
-    <div style="float: left"><b>Ph.D.</b> in Electrical and Computer Engineering, <b>The Univerisity of Texas at Austin</b><br>, Austin, TX</div>
+    <div style="float: left"><b>Ph.D.</b> in Electrical and Computer Engineering, <b>The Univerisity of Texas at Austin</b>, Austin, TX</div>
     <div style="float: right">08/2015 - Present</div>
     </li>
     <li>
-    <div style="float: left"><b>BS.</b> in Electrical Engineering, <b>Hanyang University</b><br>, Republic of Korea</div>
+    <div style="float: left"><b>BS.</b> in Electrical Engineering, <b>Hanyang University</b>, Republic of Korea</div>
     <div style="float: right">02/2008</div>
     </li>
 </ul>
@@ -116,9 +116,8 @@ layout: page
 
 <h2>Related Graduate Courses<hr></h2>
 <ul>
-    <li>
-    <b>Computer Architecture and System</b><br>
-       Computer Architecture (EE 382N 1) <br>
+    <h3>Computer Architecture and System</h3>
+    <li>Computer Architecture (EE 382N 1) <br>
     High Speed Computer Arithmatics (EE 382N 14) <br>
     Computer Architecture: Parallelism & Locality (EE 382N 20) <br>
     Computer Architecture: User System Interplay (EE 382N 22) <br>
