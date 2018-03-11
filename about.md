@@ -102,6 +102,7 @@ layout: page
     </li>
 </ul>
 
+<!--
 <h2>Education<hr></h2>
 <ul>
     <li>
@@ -113,6 +114,7 @@ layout: page
     <div style="float: right">02/2008</div>
     </li>
 </ul>
+-->
 
 <h2>Related Graduate Courses<hr></h2>
 <ul>
@@ -122,9 +124,9 @@ layout: page
     Computer Architecture: Parallelism & Locality (EE 382N 20) <br>
     Computer Architecture: User System Interplay (EE 382N 22) <br>
     Superscalar Computer Archicture (EE 382N 17) <br>
-    Prediction Mechnisms in Computer Architecture (CS 395T) <br>
     Dependable Computing (EE 382M) <br>
-    Advanced Topics in Compiler (CS 380C), Current <br>
+    Advanced Topics in Compiler (CS 380C) <br>
+    Prediction Mechnisms in Computer Architecture (CS 395T), Current <br>
     </li>
 
     <li>
