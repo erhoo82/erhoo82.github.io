@@ -64,6 +64,13 @@ layout: page
 <h2>Pulibication<hr></h2>
 <ul>
     <li>
+    <b>Hamartia: A Fast and Accurate Error Injection Framework,</b>
+    <br>Chun-Kai Chang, <b>Sangkug Lym</b>, Mattan Erez
+    <br><i>Silicon Errors in Logic – System Effects (SELSE), 2018, Apr 2018</i>
+    <a href="https://lph.ece.utexas.edu/users/hamartia/index.htm" style="text-decoration : none;color: #cc0000">[Code]</a>
+    </li><br>
+
+    <li>
     <b>ERUCA: Efficient DRAM Resource Utilization and Resource Conflict Avoidance for Memory System Parallelism,</b>
     <br><b>Sangkug Lym</b>, Heonjae Ha, Yongkee Kwon, Chunkai Chang, Jungrae Kim, and Mattan Erez
     <br><i>International Symposium on High-Performance Computer Architecture (HPCA), Feb 2018</i>
@@ -75,13 +82,6 @@ layout: page
     <br>Seong-Lyong Gong, Jungrae Kim, <b>Sangkug Lym</b>, Michael Sullivan, Howard David, and Mattan Erez
     <br><i>International Symposium on High-Performance Computer Architecture (HPCA), Feb 2018</i>
     <a href="http://lph.ece.utexas.edu/merez/uploads/MattanErez/duo_hpca18.pdf" style="text-decoration : none;color: #cc0000">[PDF]</a>
-    </li><br>
-
-    <li>
-    <b>Hamartia: A Fast and Accurate Error Injection Framework,</b>
-    <br>Chun-Kai Chang, <b>Sangkug Lym</b>, Mattan Erez
-    <br><i>Silicon Errors in Logic – System Effects (SELSE), 2018, Apr 2018</i>
-    <a href="https://lph.ece.utexas.edu/users/hamartia/index.htm" style="text-decoration : none;color: #cc0000">[Code]</a>
     </li><br>
 
     <li>
