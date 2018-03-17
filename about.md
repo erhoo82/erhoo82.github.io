@@ -125,14 +125,14 @@ layout: page
     Computer Architecture: User System Interplay (EE 382N 22) <br>
     Superscalar Computer Archicture (EE 382N 17) <br>
     Dependable Computing (EE 382M) <br>
-    Advanced Topics in Compiler (CS 380C) <br>
+    Advanced Topics in Compiler (CS 380C)
     </li>
 
     <li>
     <b>Machine Learning</b><br>
     Machine Learning (CS 391L) <br>
-    Neural Network (CS 394N)
-    Prediction Mechnisms in Computer Architecture (CS 395T), Current <br>
+    Neural Network (CS 394N) <br<
+    Prediction Mechnisms in Computer Architecture (CS 395T), Current
     </li>
 </ul>
 
