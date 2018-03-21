@@ -43,7 +43,7 @@ layout: page
     <li>
     <b>SK hynix (Ichon, Republic of Korea)</b>
     <br>
-    <div style="float: left"><b><i>DRAM architecture design & performance evaulation engieer</i></b></div>
+    <div style="float: left"><b><i>DRAM design & performance evaulation engieer @DRAM Product Planning and Enabling Team</i></b></div>
     <div style="float: right">04/2012 - 07/2015</div>
     <br>DDR4-Extension features development and evaluation for memory system parallelism
     <br>Next generation DRAM features evaluation and proposal
