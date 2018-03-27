@@ -17,7 +17,7 @@ layout: page
     <div style="float: left"><b><i>Graduate Research Assistant @<a href="https://lph.ece.utexas.edu/merez/MattanErez/Research" style="text-decoration : none;color: #cc0000">LPH Group</a></i></b></div>
     <div style="float: right">08/2015 - Present</div>
     <br>Memory system parallelism
-    <br>(Micro)Architecture and level fault injection modeling and application fault tolerance analysis
+    <br>(Micro)Architecture level fault injection modeling and application fault resilience analysis
     <br>Machine learning acceleration
     </li><br>
 
