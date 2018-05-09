@@ -118,7 +118,7 @@ layout: page
 
 <h2>Related Graduate Courses<hr></h2>
 <ul>
-    <li><b>Computer Architecture and System</b><br>
+    <li><b>Computer Architecture</b><br>
     Computer Architecture (EE 382N 1) <br>
     High Speed Computer Arithmatics (EE 382N 14) <br>
     Computer Architecture: Parallelism & Locality (EE 382N 20) <br>
