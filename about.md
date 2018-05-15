@@ -121,8 +121,8 @@ layout: page
     <li><b>Computer Architecture</b><br>
     Computer Architecture (EE 382N 1) <br>
     High Speed Computer Arithmatics (EE 382N 14) <br>
-    Computer Architecture: Parallelism & Locality (EE 382N 20) <br>
-    Computer Architecture: User System Interplay (EE 382N 22) <br>
+    GPUs and Parallel Processors: Parallelism & Locality (EE 382N 20) <br>
+    Topics in Computer Architecture: User System Interplay (EE 382N 22) <br>
     Superscalar Computer Archicture (EE 382N 17) <br>
     Dependable Computing (EE 382M) <br>
     Advanced Topics in Compiler (CS 380C)
