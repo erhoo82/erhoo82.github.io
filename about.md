@@ -132,7 +132,7 @@ layout: page
     <b>Machine Learning</b><br>
     Machine Learning (CS 391L) <br>
     Neural Network (CS 394N) <br>
-    Prediction Mechnisms in Computer Architecture (CS 395T), Current
+    Prediction Mechnisms in Computer Architecture (CS 395T)
     </li>
 </ul>
 
