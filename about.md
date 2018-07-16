@@ -12,13 +12,21 @@ layout: page
 <h2>Research experience<hr></h2>
 <ul> 
     <li>
-    <b>The Univerisity of Texas at Austin (Austin, Tx)</b>
+    <b>The University of Texas at Austin (Austin, Tx)</b>
     <br>
     <div style="float: left"><b><i>Graduate Research Assistant @<a href="https://lph.ece.utexas.edu/merez/MattanErez/Research" style="text-decoration : none;color: #cc0000">LPH Group</a></i></b></div>
     <div style="float: right">08/2015 - Present</div>
     <br>Memory system parallelism
     <br>(Micro)Architecture level fault injection modeling and application fault resilience analysis
     <br>Machine learning acceleration
+    </li><br>
+
+    <li>
+    <b>NVIDIA (Austin, TX)</b>
+    <br>
+    <div style="float: left"><b><i>Research Intern @Deep Learning Architecture</i></b></div>
+    <div style="float: right">05/2017 - 08/2017</div>
+    <br>Deep learning workload analysis, GPU memory system architecture
     </li><br>
 
     <li>
@@ -34,7 +42,7 @@ layout: page
     <br>
     <div style="float: left"><b><i>Research Intern @Platform Architecture Group</i></b></div>
     <div style="float: right">05/2016 - 08/2016</div>
-    <br>Psersistent memory system architecture, Memory centric computing, DRAM cache modeling
+    <br>Persistent memory system architecture, Memory centric computing, DRAM cache modeling
     </li>
 </ul>
 
@@ -43,7 +51,7 @@ layout: page
     <li>
     <b>SK hynix (Ichon, Republic of Korea)</b>
     <br>
-    <div style="float: left"><b><i>DRAM design & performance evaulation engieer @DRAM Product Planning and Enabling Team</i></b></div>
+    <div style="float: left"><b><i>DRAM design & performance evaluation engineer @DRAM Product Planning and Enabling Team</i></b></div>
     <div style="float: right">04/2012 - 07/2015</div>
     <br>DDR4-Extension features development and evaluation for memory system parallelism
     <br>Next generation DRAM features evaluation and proposal
@@ -57,11 +65,11 @@ layout: page
     <div style="float: right">12/2007 - 04/2012</div>
     <br>PCRAM architecture design and memory core functionality optimization
     <br>PCRAM data interface design and physical layout design
-    <br>Wafer level PCRAM functiality analysis and SLC and MLC cell transition characteristic evaluation
+    <br>Wafer level PCRAM functionality analysis and SLC and MLC cell transition characteristic evaluation
     </li>
 </ul>
 
-<h2>Pulibication<hr></h2>
+<h2>Publication<hr></h2>
 <ul>
     <li>
     <b>Hamartia: A Fast and Accurate Error Injection Framework,</b>
@@ -120,10 +128,10 @@ layout: page
 <ul>
     <li><b>Computer Architecture</b><br>
     Computer Architecture (EE 382N 1) <br>
-    High Speed Computer Arithmatics (EE 382N 14) <br>
+    High Speed Computer Arithmetic (EE 382N 14) <br>
     GPUs and Parallel Processors: Parallelism & Locality (EE 382N 20) <br>
     Topics in Computer Architecture: User System Interplay (EE 382N 22) <br>
-    Superscalar Computer Archicture (EE 382N 17) <br>
+    Superscalar Computer Architecture (EE 382N 17) <br>
     Dependable Computing (EE 382M) <br>
     Advanced Topics in Compiler (CS 380C)
     </li>
@@ -132,7 +140,7 @@ layout: page
     <b>Machine Learning</b><br>
     Machine Learning (CS 391L) <br>
     Neural Network (CS 394N) <br>
-    Prediction Mechnisms in Computer Architecture (CS 395T)
+    Prediction Mechanisms in Computer Architecture (CS 395T)
     </li>
 </ul>
 
