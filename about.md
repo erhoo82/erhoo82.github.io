@@ -24,9 +24,9 @@ layout: page
     <li>
     <b>NVIDIA (Austin, TX)</b>
     <br>
-    <div style="float: left"><b><i>Research Intern @Deep Learning Architecture</i></b></div>
-    <div style="float: right">05/2017 - 08/2017</div>
-    <br>Deep learning workload analysis, GPU memory system architecture
+    <div style="float: left"><b><i>Research Intern @Deep Learning Architecture Group</i></b></div>
+    <div style="float: right">05/2018 - 08/2018</div>
+    <br>Deep learning workload analysis, GPU architecture and kernel optimization
     </li><br>
 
     <li>
@@ -76,6 +76,7 @@ layout: page
     <br>Chun-Kai Chang, <b>Sangkug Lym</b>, Mattan Erez
     <br><i>SELSE (invited to best SELSE papers session in DSN 2018), Apr 2018</i>
     <a href="https://lph.ece.utexas.edu/users/hamartia/index.htm" style="text-decoration : none;color: #cc0000">[Code]</a>
+    <a href="https://ieeexplore.ieee.org/abstract/document/8416231/" style="text-decoration : none;color: #cc0000">[PDF]</a>
     </li><br>
 
     <li>
