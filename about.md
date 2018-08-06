@@ -24,7 +24,7 @@ layout: page
     <li>
     <b>NVIDIA (Austin, TX)</b>
     <br>
-    <div style="float: left"><b><i>Research Intern @Deep Learning Architecture Group</i></b></div>
+    <div style="float: left"><b><i>Deep Learinng Architecture Intern @Deep Learning Architecture Group</i></b></div>
     <div style="float: right">05/2018 - 08/2018</div>
     <br>Deep learning workload analysis, GPU architecture and kernel optimization
     </li><br>
