@@ -41,7 +41,7 @@ layout: page
 <h2>Work experience<hr></h2>
 <ul> 
     <li>
-    <b>NVIDIA (Austin, TX)</b>
+    <b>NVIDIA (Santa Clara, CA)</b>
     <br>
     <div style="float: left"><b><i>Deep Learinng Architecture Intern @Deep Learning Architecture Group</i></b></div>
     <div style="float: right">05/2018 - 08/2018</div>
