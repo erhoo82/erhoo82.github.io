@@ -22,14 +22,6 @@ layout: page
     </li><br>
 
     <li>
-    <b>NVIDIA (Austin, TX)</b>
-    <br>
-    <div style="float: left"><b><i>Deep Learinng Architecture Intern @Deep Learning Architecture Group</i></b></div>
-    <div style="float: right">05/2018 - 08/2018</div>
-    <br>Deep learning workload analysis, GPU architecture and kernel optimization
-    </li><br>
-
-    <li>
     <b>NVIDIA Research (Austin, TX)</b>
     <br>
     <div style="float: left"><b><i>Research Intern @Architecture Group</i></b></div>
@@ -48,6 +40,14 @@ layout: page
 
 <h2>Work experience<hr></h2>
 <ul> 
+    <li>
+    <b>NVIDIA (Austin, TX)</b>
+    <br>
+    <div style="float: left"><b><i>Deep Learinng Architecture Intern @Deep Learning Architecture Group</i></b></div>
+    <div style="float: right">05/2018 - 08/2018</div>
+    <br>Deep learning workload analysis, GPU architecture and kernel optimization
+    </li><br>
+
     <li>
     <b>SK hynix (Ichon, Republic of Korea)</b>
     <br>
