@@ -43,7 +43,7 @@ layout: page
     <div style="float: left"><b><i>Research Intern @Platform Architecture Group</i></b></div>
     <div style="float: right">05/2016 - 08/2016</div>
     <br>Persistent memory system architecture, Memory centric computing, DRAM cache modeling
-    </li>
+    </li><br>
 
     <li>
     <b>SK hynix (Ichon, Republic of Korea)</b>
