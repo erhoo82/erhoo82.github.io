@@ -9,7 +9,7 @@ layout: page
 </p>
 
 
-<h2>Research experience<hr></h2>
+<h2>Research and work experience<hr></h2>
 <ul> 
     <li>
     <b>The University of Texas at Austin (Austin, Tx)</b>
@@ -19,6 +19,14 @@ layout: page
     <br>Memory system parallelism
     <br>(Micro)Architecture level fault injection modeling and application fault resilience analysis
     <br>Machine learning acceleration
+    </li><br>
+
+    <li>
+    <b>NVIDIA (Santa Clara, CA)</b>
+    <br>
+    <div style="float: left"><b><i>Deep Learinng Architecture Intern @Deep Learning Architecture Group</i></b></div>
+    <div style="float: right">05/2018 - 08/2018</div>
+    <br>Deep learning workload analysis, GPU architecture and kernel optimization
     </li><br>
 
     <li>
@@ -36,17 +44,6 @@ layout: page
     <div style="float: right">05/2016 - 08/2016</div>
     <br>Persistent memory system architecture, Memory centric computing, DRAM cache modeling
     </li>
-</ul>
-
-<h2>Work experience<hr></h2>
-<ul> 
-    <li>
-    <b>NVIDIA (Santa Clara, CA)</b>
-    <br>
-    <div style="float: left"><b><i>Deep Learinng Architecture Intern @Deep Learning Architecture Group</i></b></div>
-    <div style="float: right">05/2018 - 08/2018</div>
-    <br>Deep learning workload analysis, GPU architecture and kernel optimization
-    </li><br>
 
     <li>
     <b>SK hynix (Ichon, Republic of Korea)</b>
