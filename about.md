@@ -9,7 +9,7 @@ layout: page
 </p>
 
 
-<h2>Research and work experience<hr></h2>
+<h2>Research and Work Experience<hr></h2>
 <ul> 
     <li>
     <b>The University of Texas at Austin (Austin, Tx)</b>
