@@ -5,7 +5,7 @@ layout: page
 ![Profile Image]({{ site.url }}/{{ site.picture }})
 
 <h2>About me<hr></h2>
-<p>I am a 4th-year Ph.D student at UT Austin and I am getting research advice from <a href="https://lph.ece.utexas.edu/merez/MattanErez/MattanErez" style="text-decoration : none;color: #cc0000"> Professor Mattan Erez</a>. My current research interests are i) energy efficient and high-performance memory system ii) system fault resilience iii) machine learning accelerators.
+<p>I am a 4th-year Ph.D student at UT Austin and I am getting research advice from <a href="https://lph.ece.utexas.edu/merez/MattanErez/MattanErez" style="text-decoration : none;color: #cc0000"> Professor Mattan Erez</a>. My current research interests are i) machine learning acceleration, ii) energy efficient and high-performance memory system, and iii) system fault resilience .
 </p>
 
 
@@ -16,9 +16,9 @@ layout: page
     <br>
     <div style="float: left"><b><i>Graduate Research Assistant @<a href="https://lph.ece.utexas.edu/merez/MattanErez/Research" style="text-decoration : none;color: #cc0000">LPH Group</a></i></b></div>
     <div style="float: right">08/2015 - Present</div>
-    <br>Memory system parallelism
-    <br>(Micro)Architecture level fault injection modeling and application fault resilience analysis
-    <br>Machine learning acceleration
+    <br>Machine learning acceleration (Algorithm, SW implementation, workload scheduling, and HW optimization)
+    <br>High performance and energy efficient memory system design
+    <br>(Micro)Architecture level fault injection modeling and application fault tolerance analysis
     </li><br>
 
     <li>
@@ -26,7 +26,7 @@ layout: page
     <br>
     <div style="float: left"><b><i>Deep Learinng Architecture Intern @Deep Learning Architecture Group</i></b></div>
     <div style="float: right">05/2018 - 08/2018</div>
-    <br>Deep learning workload analysis, GPU architecture and kernel optimization
+    <br>Deep learning workload analysis, GPU architecture & kernel optimization for fast network model training
     </li><br>
 
     <li>
@@ -34,7 +34,7 @@ layout: page
     <br>
     <div style="float: left"><b><i>Research Intern @Architecture Group</i></b></div>
     <div style="float: right">05/2017 - 08/2017</div>
-    <br>Deep learning workload analysis, GPU memory system architecture optimization
+    <br>Deep learning workload analysis, GPU memory system modeling and optimization for DL application
     </li><br>
 
     <li>
@@ -42,7 +42,7 @@ layout: page
     <br>
     <div style="float: left"><b><i>Research Intern @Platform Architecture Group</i></b></div>
     <div style="float: right">05/2016 - 08/2016</div>
-    <br>Persistent memory system architecture, Memory centric computing, DRAM cache modeling
+    <br>Persistent memory system architecture, Memory centric computing, DRAM cache simulation design
     </li><br>
 
     <li>
@@ -52,7 +52,7 @@ layout: page
     <div style="float: right">04/2012 - 07/2015</div>
     <br>DDR4-Extension features development and evaluation for memory system parallelism
     <br>Next generation DRAM features evaluation and proposal
-    <br>Contribution to DDR4 & DDR4-Extension JEDEC standardization as the representative of SK hynix
+    <br>Major contribution to DDR4 & DDR4-Extension JEDEC standardization as the representative of SK hynix
     </li><br>
 
     <li>
@@ -68,10 +68,19 @@ layout: page
 
 <h2>Publication<hr></h2>
 <ul>
+
+
+
+    <li>
+    <b>Evaluating and Accelerating High-Fidelity Error Injection for HPC,</b>
+    <br>Chun-Kai Chang, <b>Sangkug Lym</b>, Nicholas Kelly, Michael B. Sullivan, Mattan Erez
+    <br><i>To be appeared in SC, 2018</i>
+    </li><br>
+
     <li>
     <b>Hamartia: A Fast and Accurate Error Injection Framework,</b>
     <br>Chun-Kai Chang, <b>Sangkug Lym</b>, Mattan Erez
-    <br><i>SELSE (invited to best SELSE papers session in DSN 2018), Apr 2018</i>
+    <br><i>SELSE (invited to best SELSE papers session in DSN 2018), 2018</i>
     <a href="https://lph.ece.utexas.edu/users/hamartia/index.htm" style="text-decoration : none;color: #cc0000">[Code]</a>
     <a href="https://ieeexplore.ieee.org/abstract/document/8416231/" style="text-decoration : none;color: #cc0000">[PDF]</a>
     </li><br>
