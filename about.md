@@ -34,7 +34,7 @@ layout: page
     <br>
     <div style="float: left"><b><i>Research Intern @Architecture Group</i></b></div>
     <div style="float: right">05/2017 - 08/2017</div>
-    <br>Deep learning workload analysis, GPU memory system modeling and optimization for DL application
+    <br>Deep learning workload analysis, GPU memory system modeling and optimization for CNN model training
     </li><br>
 
     <li>
