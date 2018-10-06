@@ -79,7 +79,7 @@ layout: page
     <li>
     <b>Evaluating and Accelerating High-Fidelity Error Injection for HPC,</b>
     <br>Chun-Kai Chang, <b>Sangkug Lym</b>, Nicholas Kelly, Michael B. Sullivan, Mattan Erez
-    <br><i>To be appeared in SC18, Nov 2018</i>
+    <br><i>To be appeared in the proceedings of SC18, Nov 2018</i>
     </li><br>
 
     <li>
