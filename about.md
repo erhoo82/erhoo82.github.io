@@ -84,7 +84,7 @@ layout: page
 
     <li>
     <b>Hamartia: A Fast and Accurate Error Injection Framework,</b>
-    <br>Chun-Kai Chang, <b>Sangkug Lym</b>, Mattan Erez
+    <br>Chun-Kai Chang, <b>Sangkug Lym</b>, Nicholas Kelly, Michael B. Sullivan, Mattan Erez
     <br><i>SELSE (invited to best SELSE papers session in DSN 2018), Apr 2018</i>
     <a href="https://lph.ece.utexas.edu/users/hamartia/index.htm" style="text-decoration : none;color: #cc0000">[Code]</a>
     <a href="https://ieeexplore.ieee.org/abstract/document/8416231/" style="text-decoration : none;color: #cc0000">[PDF]</a>
