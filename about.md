@@ -95,7 +95,7 @@ layout: page
     <br><b>Sangkug Lym</b>, Heonjae Ha, Yongkee Kwon, Chun-Kai Chang, Jungrae Kim, and Mattan Erez
     <br><i>International Symposium on High-Performance Computer Architecture (HPCA), Feb 2018</i>
     <a href="http://lph.ece.utexas.edu/merez/uploads/MattanErez/eruca_hpca18.pdf" style="text-decoration : none;color: #cc0000">[PDF]</a>
-    <a href="https://drive.google.com/open?id=1hU0FymxC8679H9imhBsaK8Or1PifuuWF" style="text-decoration : none;color: #cc0000">[Slides]</a>
+    <a href="https://drive.google.com/open?id=1fCXr7KSISGBi3Z6_SOUPa9Sl-MrrCla1" style="text-decoration : none;color: #cc0000">[Slides]</a>
     </li><br>
 
     <li>
