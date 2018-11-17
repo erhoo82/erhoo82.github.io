@@ -42,7 +42,7 @@ layout: page
     <br>
     <div style="float: left"><b><i>Research Intern @Platform Architecture Group</i></b></div>
     <div style="float: right">05/2016 - 08/2016</div>
-    <br>Persistent memory system architecture, Memory centric computing, DRAM cache simulation design
+    <br>Persistent memory system architecture, Memory centric computing, DRAM cache simulator design
     </li><br>
 
     <li>
