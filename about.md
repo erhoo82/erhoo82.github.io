@@ -8,6 +8,21 @@ layout: page
 <p>I am a 4th-year Ph.D student at UT Austin majoring in computer architecture and I am getting research advice from <a href="https://lph.ece.utexas.edu/merez/MattanErez/MattanErez" style="text-decoration : none;color: #cc0000"> Professor Mattan Erez</a>. My current research interests are i) machine learning acceleration, ii) energy efficient and high-performance memory system, and iii) system fault resilience .
 </p>
 
+<h2>Education<hr></h2>
+<ul>
+    <li>
+    <div style="float: left"><b>Ph.D.</b> in Electrical and Computer Engineering, <b>The Univerisity of Texas at Austin</b>, Austin, TX</div>
+    <div style="float: right">08/2015 - Present</div>
+    </li>
+    <li>
+    <div style="float: left"><b>MSE.</b> in Electrical and Computer Engineering, <b>The Univerisity of Texas at Austin</b>, Austin, TX</div>
+    <div style="float: right">05/2018</div>
+    </li>
+    <li>
+    <div style="float: left"><b>BS.</b> in Electrical Engineering, <b>Hanyang University</b>, Republic of Korea</div>
+    <div style="float: right">02/2008</div>
+    </li>
+</ul>
 
 <h2>Research and Work Experience<hr></h2>
 <ul> 
@@ -123,20 +138,6 @@ layout: page
     <b>Sangkug Lym, "JEDEC DDR4 Workshop: DDR4 Operation Specifics", </b> 2013 DDR4 Workshop, Santa Clara, CA <a href="https://www.jedec.org/ddr4workshop" style="text-decoration : none;color: #cc0000">[VIDEO]</a>
     </li>
 </ul>
-
-<!--
-<h2>Education<hr></h2>
-<ul>
-    <li>
-    <div style="float: left"><b>Ph.D.</b> in Electrical and Computer Engineering, <b>The Univerisity of Texas at Austin</b>, Austin, TX</div>
-    <div style="float: right">08/2015 - Present</div>
-    </li>
-    <li>
-    <div style="float: left"><b>BS.</b> in Electrical Engineering, <b>Hanyang University</b>, Republic of Korea</div>
-    <div style="float: right">02/2008</div>
-    </li>
-</ul>
--->
 
 <h2>Related Graduate Courses<hr></h2>
 <ul>
