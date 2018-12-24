@@ -16,11 +16,11 @@ layout: page
     </li>
     <li>
     <div style="float: left"><b>MS.</b> in Electrical and Computer Engineering, <b>The Univerisity of Texas at Austin</b>, Austin, TX</div>
-    <div style="float: right">05/2018</div>
+    <div style="float: right">08/2015 - 05/2018</div>
     </li>
     <li>
     <div style="float: left"><b>BS.</b> in Electrical Engineering, <b>Hanyang University</b>, Republic of Korea</div>
-    <div style="float: right">02/2008</div>
+    <div style="float: right">03/2001 - 02/2008</div>
     </li>
 </ul>
 
@@ -94,7 +94,7 @@ layout: page
     <li>
     <b>Evaluating and Accelerating High-Fidelity Error Injection for HPC,</b>
     <br>Chun-Kai Chang, <b>Sangkug Lym</b>, Nicholas Kelly, Michael B. Sullivan, Mattan Erez
-    <br><i>International Conference for High Performance Computing, Networking, Storage and Analysis (SC), Nov 2018</i>
+    <br><i>International Conference for High Performance Computing, Networking, Storage and Analysis (Supercomputing, SC), Nov 2018</i>
     <a href="http://lph.ece.utexas.edu/merez/uploads/MattanErez/sc18_hamartia.pdf" style="text-decoration : none;color: #cc0000">[PDF]</a>
     </li><br>
 
