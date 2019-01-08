@@ -91,6 +91,11 @@ layout: page
     <a href="https://arxiv.org/pdf/1810.00307.pdf" style="text-decoration : none;color: #cc0000">[PDF]</a>
     </li><br>
 
+    <li>
+    <b>DeLTA: GPU Performance Model for Deep Learning Applications with In-depth Memory System Traffic Analysis,</b>
+    <br><b>Sangkug Lym</b>, Donghyuk Lee, Mike O'Connor, Niladrish Chatterjee, Mattan Erez 
+    <br><i>Under review for International Symposium on Performance Analysis of Systems and Software (ISPASS), Mar 2019</i>
+    </li><br>
 
     <li>
     <b>Evaluating and Accelerating High-Fidelity Error Injection for HPC,</b>
