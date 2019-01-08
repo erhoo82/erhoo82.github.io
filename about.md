@@ -87,7 +87,7 @@ layout: page
     <li>
     <b>Mini-batch Serialization: CNN Training with Inter-layer Data Reuse,</b>
     <br><b>Sangkug Lym</b>, Armand Behroozi, Wei Wen, Ge Li, Yongkee Kwon, Mattan Erez 
-    <br><i>To be appeared in the proceedings of The Conference on Systems and Machine Learning (SysML), Apr 2019</i>
+    <br><i>To appear in the proceedings of The Conference on Systems and Machine Learning (SysML), Apr 2019</i>
     <a href="https://arxiv.org/pdf/1810.00307.pdf" style="text-decoration : none;color: #cc0000">[PDF]</a>
     </li><br>
 
