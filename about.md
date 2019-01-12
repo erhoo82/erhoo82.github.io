@@ -12,15 +12,15 @@ layout: page
 <ul>
     <li>
     <div style="float: left"><b>Ph.D.</b> in Electrical and Computer Engineering, <b>The Univerisity of Texas at Austin</b>, Austin, TX</div>
-    <div style="float: right">Aug/2015 - Present</div>
+    <div style="float: right">08/2015 - Present</div>
     </li>
     <li>
     <div style="float: left"><b>MS.</b> in Electrical and Computer Engineering, <b>The Univerisity of Texas at Austin</b>, Austin, TX</div>
-    <div style="float: right">Aug/2015 - May/2018</div>
+    <div style="float: right">08/2015 - 05/2018</div>
     </li>
     <li>
     <div style="float: left"><b>BS.</b> in Electrical Engineering, <b>Hanyang University</b>, Republic of Korea</div>
-    <div style="float: right">Mar/2001 - Feb/2008</div>
+    <div style="float: right">03/2001 - 02/2008</div>
     </li>
 </ul>
 
@@ -30,7 +30,7 @@ layout: page
     <b>The University of Texas at Austin (Austin, Tx)</b>
     <br>
     <div style="float: left"><b><i>Graduate Research Assistant @<a href="https://lph.ece.utexas.edu/merez/MattanErez/Research" style="text-decoration : none;color: #cc0000">LPH Group</a></i></b></div>
-    <div style="float: right">Aug/2015 - Present</div>
+    <div style="float: right">08/2015 - Present</div>
     <br>Machine learning acceleration (Algorithm, SW implementation, workload scheduling, and HW optimization)
     <br>High performance and energy efficient memory system design
     <br>(Micro)Architecture level fault injection modeling and application fault tolerance analysis
@@ -40,7 +40,7 @@ layout: page
     <b>NVIDIA (Santa Clara, CA)</b>
     <br>
     <div style="float: left"><b><i>Deep Learinng Architecture Intern @Deep Learning Architecture Group</i></b></div>
-    <div style="float: right">May/2018 - Aug/2018</div>
+    <div style="float: right">05/2018 - 08/2018</div>
     <br>Deep learning workload analysis, GPU architecture & kernel optimization for fast network model training
     </li><br>
 
@@ -48,7 +48,7 @@ layout: page
     <b>NVIDIA Research (Austin, TX)</b>
     <br>
     <div style="float: left"><b><i>Research Intern @Architecture Group</i></b></div>
-    <div style="float: right">May/2017 - Aug/2017</div>
+    <div style="float: right">05/2017 - 08/2017</div>
     <br>Deep learning workload analysis, GPU memory system modeling and optimization for CNN model training
     </li><br>
 
@@ -56,7 +56,7 @@ layout: page
     <b>Hewlett Packard Labs (Palo Alto, CA)</b >
     <br>
     <div style="float: left"><b><i>Research Intern @Platform Architecture Group</i></b></div>
-    <div style="float: right">May/2016 - Aug/2016</div>
+    <div style="float: right">05/2016 - 08/2016</div>
     <br>Persistent memory system architecture, Memory centric computing, DRAM cache simulator design
     </li><br>
 
@@ -64,7 +64,7 @@ layout: page
     <b>SK hynix (Ichon, Republic of Korea)</b>
     <br>
     <div style="float: left"><b><i>DRAM design & performance evaluation engineer @DRAM Product Planning and Enabling Team</i></b></div>
-    <div style="float: right">Apr/2012 - Jun/2015</div>
+    <div style="float: right">04/2012 - 07/2015</div>
     <br>DDR4-Extension features development and evaluation to improve memory system parallelism
     <br>Next generation DRAM features evaluation and proposal
     <br>Major contribution to DDR4 & DDR4-Extension JEDEC standardization as the representative of SK hynix
@@ -74,8 +74,9 @@ layout: page
     <b>SK hynix (Ichon, Republic of Korea)</b>
     <br>
     <div style="float: left"><b><i>PCRAM architecture & circuit design engineer @Next Generation Memory Design Team</i></b></div>
-    <div style="float: right">Dec/2007 - Apr/2012</div>
-    <br>PCRAM architecture design and memory core functionality optimization
+    <div style="float: right">12/2007 - 04/2012</div>
+    <br>PCRAM architecture design and memor
+    y core functionality optimization
     <br>PCRAM data interface design and physical layout design
     <br>Wafer level PCRAM functionality analysis and SLC and MLC cell transition characteristic evaluation
     </li>
