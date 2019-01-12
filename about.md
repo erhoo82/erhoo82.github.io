@@ -16,11 +16,11 @@ layout: page
     </li>
     <li>
     <div style="float: left"><b>MS.</b> in Electrical and Computer Engineering, <b>The Univerisity of Texas at Austin</b>, Austin, TX</div>
-    <div style="float: right">May/2018</div>
+    <div style="float: right">Aug/2015 - May/2018</div>
     </li>
     <li>
     <div style="float: left"><b>BS.</b> in Electrical Engineering, <b>Hanyang University</b>, Republic of Korea</div>
-    <div style="float: right">Feb/2008</div>
+    <div style="float: right">Mar/2001 - Feb/2008</div>
     </li>
 </ul>
 
