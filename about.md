@@ -88,14 +88,14 @@ layout: page
     <li>
     <b>Mini-batch Serialization: CNN Training with Inter-layer Data Reuse,</b>
     <br><b><u>Sangkug Lym</u></b>, Armand Behroozi, Wei Wen, Ge Li, Yongkee Kwon, Mattan Erez 
-    <br><i>To appear in the proceedings of The Conference on Systems and Machine Learning (SysML), Apr 2019</i>
+    <br><i>To appear in The Conference on Systems and Machine Learning (SysML), Apr 2019</i>
     <a href="https://arxiv.org/pdf/1810.00307.pdf" style="text-decoration : none;color: #cc0000">[PDF]</a>
     </li><br>
 
     <li>
     <b>DeLTA: GPU Performance Model for Deep Learning Applications with In-depth Memory System Traffic Analysis,</b>
     <br><b><u>Sangkug Lym</u></b>, Donghyuk Lee, Mike O'Connor, Niladrish Chatterjee, Mattan Erez 
-    <br><i>To appear in the proceedings of International Symposium on Performance Analysis of Systems and Software (ISPASS), Mar 2019</i>
+    <br><i>To appear in International Symposium on Performance Analysis of Systems and Software (ISPASS), Mar 2019</i>
     </li><br>
 
     <li>
