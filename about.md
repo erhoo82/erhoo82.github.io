@@ -89,7 +89,7 @@ layout: page
     <b>Mini-batch Serialization: CNN Training with Inter-layer Data Reuse,</b>
     <br><b><u>Sangkug Lym</u></b>, Armand Behroozi, Wei Wen, Ge Li, Yongkee Kwon, Mattan Erez 
     <br><i>To appear in the proceedings of The Conference on Systems and Machine Learning (SysML), Apr 2019</i>
-    <a href="https://arxiv.org/pdf/1810.00307.pdf" style="text-decoration : none;color: #cc0000">[PDF]</a>
+    <a href="https://arxiv.org/pdf/1810.00307.pdf" style="text-decoration : none;color: #cc0000">[Paper]</a>
     </li><br>
 
     <li>
@@ -102,7 +102,7 @@ layout: page
     <b>Evaluating and Accelerating High-Fidelity Error Injection for HPC,</b>
     <br>Chun-Kai Chang, <b><u>Sangkug Lym</u></b>, Nicholas Kelly, Michael B. Sullivan, Mattan Erez
     <br><i>International Conference for High Performance Computing, Networking, Storage and Analysis (SC), Nov 2018</i>
-    <a href="http://lph.ece.utexas.edu/merez/uploads/MattanErez/sc18_hamartia.pdf" style="text-decoration : none;color: #cc0000">[PDF]</a>
+    <a href="http://lph.ece.utexas.edu/merez/uploads/MattanErez/sc18_hamartia.pdf" style="text-decoration : none;color: #cc0000">[Paper]</a>
     </li><br>
 
     <li>
@@ -110,14 +110,14 @@ layout: page
     <br>Chun-Kai Chang, <b><u>Sangkug Lym</u></b>, Nicholas Kelly, Michael B. Sullivan, Mattan Erez
     <br><i>SELSE (invited to the best SELSE papers session in DSN 2018), Apr 2018</i>
     <a href="https://lph.ece.utexas.edu/users/hamartia/index.htm" style="text-decoration : none;color: #cc0000">[Code]</a>
-    <a href="https://ieeexplore.ieee.org/abstract/document/8416231/" style="text-decoration : none;color: #cc0000">[PDF]</a>
+    <a href="https://ieeexplore.ieee.org/abstract/document/8416231/" style="text-decoration : none;color: #cc0000">[Paper]</a>
     </li><br>
 
     <li>
     <b>ERUCA: Efficient DRAM Resource Utilization and Resource Conflict Avoidance for Memory System Parallelism,</b>
     <br><b><u>Sangkug Lym</u></b>, Heonjae Ha, Yongkee Kwon, Chun-Kai Chang, Jungrae Kim, and Mattan Erez
     <br><i>International Symposium on High-Performance Computer Architecture (HPCA), Feb 2018</i>
-    <a href="http://lph.ece.utexas.edu/merez/uploads/MattanErez/eruca_hpca18.pdf" style="text-decoration : none;color: #cc0000">[PDF]</a>
+    <a href="http://lph.ece.utexas.edu/merez/uploads/MattanErez/eruca_hpca18.pdf" style="text-decoration : none;color: #cc0000">[Paper]</a>
     <a href="https://drive.google.com/open?id=1fCXr7KSISGBi3Z6_SOUPa9Sl-MrrCla1" style="text-decoration : none;color: #cc0000">[Slides]</a>
     </li><br>
 
@@ -125,14 +125,14 @@ layout: page
     <b>DUO: Exposing On-chip Redundancy to Rank-Level ECC for High Reliability,</b>
     <br>Seong-Lyong Gong, Jungrae Kim, <b><u>Sangkug Lym</u></b>, Michael Sullivan, Howard David, and Mattan Erez
     <br><i>International Symposium on High-Performance Computer Architecture (HPCA), Feb 2018</i>
-    <a href="http://lph.ece.utexas.edu/merez/uploads/MattanErez/duo_hpca18.pdf" style="text-decoration : none;color: #cc0000">[PDF]</a>
+    <a href="http://lph.ece.utexas.edu/merez/uploads/MattanErez/duo_hpca18.pdf" style="text-decoration : none;color: #cc0000">[Paper]</a>
     </li><br>
 
     <li>
     <b>All-Inclusive ECC: Thorough End-to- End Protection for Reliable Computer Memory,</b>
     <br>Jungrae Kim, Michael Sullivan, <b><u>Sangkug Lym</u></b>, and Mattan Erez
     <br><i>International Symposium on Computer Architecture (ISCA), June 2016.</i>
-    <a href="http://lph.ece.utexas.edu/merez/uploads/MattanErez/isca2016_aiecc.pdf" style="text-decoration : none;color: #cc0000">[PDF]</a>
+    <a href="http://lph.ece.utexas.edu/merez/uploads/MattanErez/isca2016_aiecc.pdf" style="text-decoration : none;color: #cc0000">[Paper]</a>
     </li>
 </ul>
 
