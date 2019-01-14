@@ -148,7 +148,8 @@ layout: page
     <b>Sangkug Lym, "ERUCA: Efficient DRAM Resource Utilization and Resource Conflict Avoidance for Memory System Parallelism", </b> HPCA'18, Vienna, Austria
     </li>
     <li>
-    <b>Sangkug Lym, "JEDEC DDR4 Workshop: DDR4 Operation Specifics", </b> 2013 DDR4 Workshop, Santa Clara, CA <a href="https://www.jedec.org/ddr4workshop" style="text-decoration : none;color: #cc0000">[VIDEO]</a>
+    <b>Sangkug Lym, "JEDEC DDR4 Workshop: DDR4 Operation Specifics", </b> 2013 DDR4 Workshop, Santa Clara, CA 
+    <br><a href="https://www.jedec.org/ddr4workshop" style="text-decoration : none;color: #cc0000">[VIDEO]</a>
     </li>
 </ul>
 
