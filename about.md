@@ -94,20 +94,20 @@ layout: page
     <li>
     <b>Mini-batch Serialization: CNN Training with Inter-layer Data Reuse,</b>
     <br><b><u>Sangkug Lym</u></b>, Armand Behroozi, Wei Wen, Ge Li, Yongkee Kwon, Mattan Erez 
-    <br><i>To appear in the proceedings of The Conference on Systems and Machine Learning (SysML), Apr 2019</i>
+    <br><i>The Conference on Systems and Machine Learning (SysML), Apr 2019</i>
     <a href="https://arxiv.org/pdf/1810.00307.pdf" style="text-decoration : none;color: #cc0000">[Paper]</a>
     </li><br>
 
     <li>
     <b>DeLTA: GPU Performance Model for Deep Learning Applications with In-depth Memory System Traffic Analysis,</b>
     <br><b><u>Sangkug Lym</u></b>, Donghyuk Lee, Mike O'Connor, Niladrish Chatterjee, Mattan Erez 
-    <br><i>To appear in the proceedings of International Symposium on Performance Analysis of Systems and Software (ISPASS), Mar 2019</i>
+    <br><i>IEEE International Symposium on Performance Analysis of Systems and Software (ISPASS), Mar 2019</i>
     </li><br>
 
     <li>
     <b>Evaluating and Accelerating High-Fidelity Error Injection for HPC,</b>
     <br>Chun-Kai Chang, <b><u>Sangkug Lym</u></b>, Nicholas Kelly, Michael B. Sullivan, Mattan Erez
-    <br><i>International Conference for High Performance Computing, Networking, Storage and Analysis (SC), Nov 2018</i>
+    <br><i>IEEE/ACM International Conference for High Performance Computing, Networking, Storage and Analysis (SC), Nov 2018</i>
     <a href="http://lph.ece.utexas.edu/merez/uploads/MattanErez/sc18_hamartia.pdf" style="text-decoration : none;color: #cc0000">[Paper]</a>
     </li><br>
 
