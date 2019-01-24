@@ -86,6 +86,12 @@ layout: page
 <ul>
 
     <li>
+    <b>PruneTrain: Gradual Structured Pruning for Faster Neural Network Training,</b>
+    <br><b><u>Sangkug Lym</u></b>, Esha Choukse, Siavash Zangeneh, Wei Wen, Mattan Erez, Sujay Shanghavi
+    <br><i>Preprint, Jan 2019</i>
+    </li><br>
+
+    <li>
     <b>Mini-batch Serialization: CNN Training with Inter-layer Data Reuse,</b>
     <br><b><u>Sangkug Lym</u></b>, Armand Behroozi, Wei Wen, Ge Li, Yongkee Kwon, Mattan Erez 
     <br><i>To appear in the proceedings of The Conference on Systems and Machine Learning (SysML), Apr 2019</i>
