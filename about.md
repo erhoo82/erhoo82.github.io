@@ -86,7 +86,7 @@ layout: page
 <ul>
 
     <li>
-    <b>PruneTrain: Gradual Structured Pruning for Faster Neural Network Training,</b>
+    <b>PruneTrain: Gradual Structured Pruning from Scratch for Faster Neural Network Training,</b>
     <br><b><u>Sangkug Lym</u></b>, Esha Choukse, Siavash Zangeneh, Wei Wen, Mattan Erez, Sujay Shanghavi
     <br><i>Preprint, Jan 2019</i>
     </li><br>
