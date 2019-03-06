@@ -87,7 +87,7 @@ layout: page
 
     <li>
     <b>PruneTrain: Gradual Structured Pruning from Scratch for Faster Neural Network Training,</b>
-    <br><b><u>Sangkug Lym</u></b>, Esha Choukse, Siavash Zangeneh, Wei Wen, Mattan Erez, Sujay Shanghavi
+    <br><b><u>Sangkug Lym</u></b>, Esha Choukse, Siavash Zangeneh, Wei Wen, Mattan Erez, Sujay Sanghavi
     <br><i>Preprint, Jan 2019</i>
     <a href="https://arxiv.org/pdf/1901.09290.pdf" style="text-decoration : none;color: #cc0000">[Paper]</a>
     </li><br>
@@ -97,12 +97,14 @@ layout: page
     <br><b><u>Sangkug Lym</u></b>, Armand Behroozi, Wei Wen, Ge Li, Yongkee Kwon, Mattan Erez 
     <br><i>The Conference on Systems and Machine Learning (SysML), Apr 2019</i>
     <a href="https://arxiv.org/pdf/1810.00307.pdf" style="text-decoration : none;color: #cc0000">[Paper]</a>
+<!-- Acceptance rate: 16.9%-->
     </li><br>
 
     <li>
     <b>DeLTA: GPU Performance Model for Deep Learning Applications with In-depth Memory System Traffic Analysis,</b>
     <br><b><u>Sangkug Lym</u></b>, Donghyuk Lee, Mike O'Connor, Niladrish Chatterjee, Mattan Erez 
     <br><i>International Symposium on Performance Analysis of Systems and Software (ISPASS), Mar 2019</i>
+<!-- Acceptance rate: 29.5%-->
     </li><br>
 
     <li>
@@ -110,6 +112,7 @@ layout: page
     <br>Chun-Kai Chang, <b><u>Sangkug Lym</u></b>, Nicholas Kelly, Michael B. Sullivan, Mattan Erez
     <br><i>International Conference for High Performance Computing, Networking, Storage and Analysis (SC), Nov 2018</i>
     <a href="http://lph.ece.utexas.edu/merez/uploads/MattanErez/sc18_hamartia.pdf" style="text-decoration : none;color: #cc0000">[Paper]</a>
+<!-- Acceptance rate: 24.1%-->
     </li><br>
 
     <li>
@@ -126,6 +129,7 @@ layout: page
     <br><i>International Symposium on High-Performance Computer Architecture (HPCA), Feb 2018</i>
     <a href="http://lph.ece.utexas.edu/merez/uploads/MattanErez/eruca_hpca18.pdf" style="text-decoration : none;color: #cc0000">[Paper]</a>
     <a href="https://drive.google.com/open?id=1fCXr7KSISGBi3Z6_SOUPa9Sl-MrrCla1" style="text-decoration : none;color: #cc0000">[Slides]</a>
+<!-- acceptace rate: 20.8%    --> 
     </li><br>
 
     <li>
@@ -133,6 +137,7 @@ layout: page
     <br>Seong-Lyong Gong, Jungrae Kim, <b><u>Sangkug Lym</u></b>, Michael Sullivan, Howard David, and Mattan Erez
     <br><i>International Symposium on High-Performance Computer Architecture (HPCA), Feb 2018</i>
     <a href="http://lph.ece.utexas.edu/merez/uploads/MattanErez/duo_hpca18.pdf" style="text-decoration : none;color: #cc0000">[Paper]</a>
+<!-- acceptace rate: 20.8%    --> 
     </li><br>
 
     <li>
