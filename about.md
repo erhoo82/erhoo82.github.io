@@ -5,7 +5,7 @@ layout: page
 ![Profile Image]({{ site.url }}/{{ site.picture }})
 
 <h2>About me<hr></h2>
-<p>I am a 4th-year Ph.D student majoring in computer architecture at UT Austin and I am getting research advice from <a href="https://lph.ece.utexas.edu/merez/MattanErez/MattanErez" style="text-decoration : none;color: #cc0000"> Professor Mattan Erez</a>. My current research interests are i) machine learning acceleration, ii) energy efficient and high-performance memory system, and iii) system fault resilience .
+<p>I am a 4th-year Ph.D candidate majoring in computer architecture at UT Austin and I am getting research advice from <a href="https://lph.ece.utexas.edu/merez/MattanErez/MattanErez" style="text-decoration : none;color: #cc0000"> Professor Mattan Erez</a>. My current research interests are i) machine learning acceleration, ii) energy efficient and high-performance memory system, and iii) system fault resilience .
 </p>
 
 <h2>Education<hr></h2>
