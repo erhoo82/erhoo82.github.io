@@ -37,6 +37,13 @@ layout: page
     </li><br>
 
     <li>
+    <b>Microsoft (Redmond, WA)</b>
+    <br>
+    <div style="float: left"><b><i>Research Intern @AI & Advanced Architecture Group</i></b></div>
+    <div style="float: right">05/2019 - 08/2019</div>
+    </li><br>
+
+    <li>
     <b>NVIDIA (Santa Clara, CA)</b>
     <br>
     <div style="float: left"><b><i>Deep Learinng Architecture Intern @Deep Learning Architecture Group</i></b></div>
