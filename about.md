@@ -41,6 +41,7 @@ layout: page
     <br>
     <div style="float: left"><b><i>Research Intern @AI & Advanced Architecture Group</i></b></div>
     <div style="float: right">05/2019 - 08/2019</div>
+    <br>
     </li><br>
 
     <li>
