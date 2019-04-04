@@ -105,6 +105,7 @@ layout: page
     <br><b><u>Sangkug Lym</u></b>, Armand Behroozi, Wei Wen, Ge Li, Yongkee Kwon, Mattan Erez 
     <br><i>The Conference on Systems and Machine Learning (SysML), Apr 2019</i>
     <a href="https://www.sysml.cc/doc/2019/142.pdf" style="text-decoration : none;color: #cc0000">[Paper]</a>
+    <a href="https://drive.google.com/open?id=1fU83QzRyL6U59o2eu-l6nIlOf4h66UXH" style="text-decoration : none;color: #cc0000">[Slides]</a>
 <!-- Acceptance rate: 16.9%-->
     </li><br>
 
@@ -163,7 +164,7 @@ layout: page
     <li>
     <b>"Mini-batch Serialization: CNN Training with Inter-layer Data Reuse", </b> 
     SysML'19, Stanford, CA
-    <a href="https://www.youtube.com/watch?v=uRfp-reEJQ0" style="text-decoration : none;color: #cc0000">[VIDEO (1:13:30)]</a>
+    <a href="https://www.youtube.com/watch?v=uRfp-reEJQ0" style="text-decoration : none;color: #cc0000">[Video (1:13:30)]</a>
     </li>
 
     <li>
@@ -178,7 +179,7 @@ layout: page
 
     <li>
     <b>"JEDEC DDR4 Workshop: DDR4 Operation Specifics", </b> 2013 DDR4 Workshop, Santa Clara, CA 
-    <a href="https://www.jedec.org/ddr4workshop" style="text-decoration : none;color: #cc0000">[VIDEO]</a>
+    <a href="https://www.jedec.org/ddr4workshop" style="text-decoration : none;color: #cc0000">[Video]</a>
     </li>
 </ul>
 
