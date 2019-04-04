@@ -105,7 +105,6 @@ layout: page
     <br><b><u>Sangkug Lym</u></b>, Armand Behroozi, Wei Wen, Ge Li, Yongkee Kwon, Mattan Erez 
     <br><i>The Conference on Systems and Machine Learning (SysML), Apr 2019</i>
     <a href="https://www.sysml.cc/doc/2019/142.pdf" style="text-decoration : none;color: #cc0000">[Paper]</a>
-    <a href="https://www.youtube.com/watch?v=uRfp-reEJQ0" style="text-decoration : none;color: #cc0000">[Video (from 1:13:30)]</a>
 <!-- Acceptance rate: 16.9%-->
     </li><br>
 
@@ -162,16 +161,17 @@ layout: page
 <h2>Invited Talks<hr></h2>
 <ul>
     <li>
-    <b>Sangkug Lym, "Mini-batch Serialization: CNN Training with Inter-layer Data Reuse", </b> SysML'19, Stanford, Palo Alto, CA
+    <b>"Mini-batch Serialization: CNN Training with Inter-layer Data Reuse", </b> SysML'19, Stanford, Palo Alto, CA
+    <a href="https://www.youtube.com/watch?v=uRfp-reEJQ0" style="text-decoration : none;color: #cc0000">[VIDEO (from 1:13:30)]</a>
     </li>
     <li>
-    <b>Sangkug Lym, "DeLTA:GPU Performance Model for Deep Learning Applications with In-depth Memory System Traffic Analysis", </b> ISPASS'19, Madison, Wisconsin
+    <b>"DeLTA:GPU Performance Model for Deep Learning Applications with In-depth Memory System Traffic Analysis", </b> ISPASS'19, Madison, Wisconsin
     </li>
     <li>
-    <b>Sangkug Lym, "ERUCA: Efficient DRAM Resource Utilization and Resource Conflict Avoidance for Memory System Parallelism", </b> HPCA'18, Vienna, Austria
+    <b>"ERUCA: Efficient DRAM Resource Utilization and Resource Conflict Avoidance for Memory System Parallelism", </b> HPCA'18, Vienna, Austria
     </li>
     <li>
-    <b>Sangkug Lym, "JEDEC DDR4 Workshop: DDR4 Operation Specifics", </b> 2013 DDR4 Workshop, Santa Clara, CA 
+    <b>"JEDEC DDR4 Workshop: DDR4 Operation Specifics", </b> 2013 DDR4 Workshop, Santa Clara, CA 
     <a href="https://www.jedec.org/ddr4workshop" style="text-decoration : none;color: #cc0000">[VIDEO]</a>
     </li>
 </ul>
