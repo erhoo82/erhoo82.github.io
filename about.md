@@ -162,6 +162,12 @@ layout: page
 <h2>Invited Talks<hr></h2>
 <ul>
     <li>
+    <b>Sangkug Lym, "Mini-batch Serialization: CNN Training with Inter-layer Data Reuse", </b> SysML'19, Stanford, Palo Alto, CA
+    </li>
+    <li>
+    <b>Sangkug Lym, "DeLTA:GPU Performance Model for Deep Learning Applications with In-depth Memory System Traffic Analysis", </b> ISPASS'19, Madison, Wisconsin
+    </li>
+    <li>
     <b>Sangkug Lym, "ERUCA: Efficient DRAM Resource Utilization and Resource Conflict Avoidance for Memory System Parallelism", </b> HPCA'18, Vienna, Austria
     </li>
     <li>
