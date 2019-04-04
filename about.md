@@ -174,7 +174,6 @@ layout: page
     <li>
     ISPASS'19, Madison, Wisconsin
     </li>
-    </li>
     <li>
     <b>"ERUCA: Efficient DRAM Resource Utilization and Resource Conflict Avoidance for Memory System Parallelism", </b> 
     </li>
