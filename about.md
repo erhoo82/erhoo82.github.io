@@ -161,14 +161,25 @@ layout: page
 <h2>Invited Talks<hr></h2>
 <ul>
     <li>
-    <b>"Mini-batch Serialization: CNN Training with Inter-layer Data Reuse", </b> SysML'19, Stanford, Palo Alto, CA
+    <b>"Mini-batch Serialization: CNN Training with Inter-layer Data Reuse", </b> 
+    </li>
+    <li>
+    SysML'19, Stanford, Palo Alto, CA
     <a href="https://www.youtube.com/watch?v=uRfp-reEJQ0" style="text-decoration : none;color: #cc0000">[VIDEO (from 1:13:30)]</a>
     </li>
+
     <li>
-    <b>"DeLTA:GPU Performance Model for Deep Learning Applications with In-depth Memory System Traffic Analysis", </b> ISPASS'19, Madison, Wisconsin
+    <b>"DeLTA:GPU Performance Model for Deep Learning Applications with In-depth Memory System Traffic Analysis", </b> 
     </li>
     <li>
-    <b>"ERUCA: Efficient DRAM Resource Utilization and Resource Conflict Avoidance for Memory System Parallelism", </b> HPCA'18, Vienna, Austria
+    ISPASS'19, Madison, Wisconsin
+    </li>
+    </li>
+    <li>
+    <b>"ERUCA: Efficient DRAM Resource Utilization and Resource Conflict Avoidance for Memory System Parallelism", </b> 
+    </li>
+    <li>
+    HPCA'18, Vienna, Austria
     </li>
     <li>
     <b>"JEDEC DDR4 Workshop: DDR4 Operation Specifics", </b> 2013 DDR4 Workshop, Santa Clara, CA 
