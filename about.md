@@ -105,6 +105,7 @@ layout: page
     <br><b><u>Sangkug Lym</u></b>, Armand Behroozi, Wei Wen, Ge Li, Yongkee Kwon, Mattan Erez 
     <br><i>The Conference on Systems and Machine Learning (SysML), Apr 2019</i>
     <a href="https://www.sysml.cc/doc/2019/142.pdf" style="text-decoration : none;color: #cc0000">[Paper]</a>
+    <a href="https://www.youtube.com/watch?v=uRfp-reEJQ0" style="text-decoration : none;color: #cc0000">[Video (from 1:13:30)]</a>
 <!-- Acceptance rate: 16.9%-->
     </li><br>
 
@@ -112,6 +113,7 @@ layout: page
     <b>DeLTA: GPU Performance Model for Deep Learning Applications with In-depth Memory System Traffic Analysis,</b>
     <br><b><u>Sangkug Lym</u></b>, Donghyuk Lee, Mike O'Connor, Niladrish Chatterjee, Mattan Erez 
     <br><i>International Symposium on Performance Analysis of Systems and Software (ISPASS), Mar 2019</i>
+    <a href="https://arxiv.org/pdf/1904.01691.pdf" style="text-decoration : none;color: #cc0000">[Paper]</a>
 <!-- Acceptance rate: 29.5%-->
     </li><br>
 
