@@ -114,7 +114,7 @@ layout: page
     <br><b><u>Sangkug Lym</u></b>, Donghyuk Lee, Mike O'Connor, Niladrish Chatterjee, Mattan Erez 
     <br><i>International Symposium on Performance Analysis of Systems and Software (ISPASS), Mar 2019</i>
     <a href="https://arxiv.org/pdf/1904.01691.pdf" style="text-decoration : none;color: #cc0000">[Paper]</a>
-    <a href="https://drive.google.com/open?id=1XPwXV7DyboKDL1GP60HbIjLZMFUuNSdx" style="text-decoration : none;color: #cc0000">[Slides]</a>
+    <a href="https://drive.google.com/open?id=13bkgjCs2E9GXS2Hkk3CAQv-4gQlaiD8m" style="text-decoration : none;color: #cc0000">[Slides]</a>
 <!-- Acceptance rate: 29.5%-->
     </li><br>
 
