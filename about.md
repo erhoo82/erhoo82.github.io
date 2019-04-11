@@ -165,7 +165,7 @@ layout: page
     <li>
     <b>"Mini-batch Serialization: CNN Training with Inter-layer Data Reuse", </b> 
     SysML'19, Stanford, CA
-    <a href="https://www.youtube.com/watch?v=uRfp-reEJQ0" style="text-decoration : none;color: #cc0000">[Video (1:13:30)]</a>
+    <a href="https://www.youtube.com/watch?v=RPTReFaoOPA" style="text-decoration : none;color: #cc0000">[Video]</a>
     </li>
 
     <li>
