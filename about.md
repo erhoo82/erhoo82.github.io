@@ -107,6 +107,7 @@ layout: page
     <a href="https://www.sysml.cc/doc/2019/142.pdf" style="text-decoration : none;color: #cc0000">[Paper]</a>
     <a href="https://drive.google.com/open?id=1fU83QzRyL6U59o2eu-l6nIlOf4h66UXH" style="text-decoration : none;color: #cc0000">[Slides]</a>
     <a href="https://bitbucket.org/lph_tools/mini-batch-serialization" style="text-decoration : none;color: #cc0000">[Code]</a>
+    <a href="https://www.youtube.com/watch?v=RPTReFaoOPA" style="text-decoration : none;color: #cc0000">[Video]</a>
 <!-- Acceptance rate: 16.9%-->
     </li><br>
 
@@ -166,7 +167,6 @@ layout: page
     <li>
     <b>"Mini-batch Serialization: CNN Training with Inter-layer Data Reuse", </b> 
     SysML'19, Stanford, CA
-    <a href="https://www.youtube.com/watch?v=RPTReFaoOPA" style="text-decoration : none;color: #cc0000">[Video]</a>
     </li>
 
     <li>
