@@ -98,6 +98,7 @@ layout: page
     <br><b><u>Sangkug Lym</u></b>, Esha Choukse, Siavash Zangeneh, Wei Wen, Mattan Erez, Sujay Sanghavi
     <br><i>Preprint, Jan 2019</i>
     <a href="https://arxiv.org/pdf/1901.09290.pdf" style="text-decoration : none;color: #cc0000">[Paper]</a>
+    <a href="https://bitbucket.org/lph_tools/prunetrain" style="text-decoration : none;color: #cc0000">[Code]</a>
     </li><br>
 
     <li>
