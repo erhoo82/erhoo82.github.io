@@ -94,8 +94,8 @@ layout: page
 <ul>
 
     <li>
-    <b>PruneTrain: Gradual Structured Pruning from Scratch for Faster Neural Network Training,</b>
-    <br><b><u>Sangkug Lym</u></b>, Esha Choukse, Siavash Zangeneh, Wei Wen, Mattan Erez, Sujay Sanghavi
+    <b>PruneTrain: Fast Neural Network Training by Dynamic Sparse Model Reconfiguration,</b>
+    <br><b><u>Sangkug Lym</u></b>, Esha Choukse, Siavash Zangeneh, Wei Wen, Sujay Sanghavi, and Mattan Erez
     <br><i>Preprint, Jan 2019</i>
     <a href="https://arxiv.org/pdf/1901.09290.pdf" style="text-decoration : none;color: #cc0000">[Paper]</a>
     <a href="https://bitbucket.org/lph_tools/prunetrain" style="text-decoration : none;color: #cc0000">[Code]</a>
@@ -103,7 +103,7 @@ layout: page
 
     <li>
     <b>Mini-batch Serialization: CNN Training with Inter-layer Data Reuse,</b>
-    <br><b><u>Sangkug Lym</u></b>, Armand Behroozi, Wei Wen, Ge Li, Yongkee Kwon, Mattan Erez 
+    <br><b><u>Sangkug Lym</u></b>, Armand Behroozi, Wei Wen, Ge Li, Yongkee Kwon, and Mattan Erez 
     <br><i>The Conference on Systems and Machine Learning (SysML), Apr 2019</i>
     <a href="https://www.sysml.cc/doc/2019/142.pdf" style="text-decoration : none;color: #cc0000">[Paper]</a>
     <a href="https://drive.google.com/open?id=1fU83QzRyL6U59o2eu-l6nIlOf4h66UXH" style="text-decoration : none;color: #cc0000">[Slides]</a>
@@ -114,7 +114,7 @@ layout: page
 
     <li>
     <b>DeLTA: GPU Performance Model for Deep Learning Applications with In-depth Memory System Traffic Analysis,</b>
-    <br><b><u>Sangkug Lym</u></b>, Donghyuk Lee, Mike O'Connor, Niladrish Chatterjee, Mattan Erez 
+    <br><b><u>Sangkug Lym</u></b>, Donghyuk Lee, Mike O'Connor, Niladrish Chatterjee, and Mattan Erez 
     <br><i>International Symposium on Performance Analysis of Systems and Software (ISPASS), Mar 2019</i>
     <a href="https://arxiv.org/pdf/1904.01691.pdf" style="text-decoration : none;color: #cc0000">[Paper]</a>
     <a href="https://drive.google.com/open?id=13bkgjCs2E9GXS2Hkk3CAQv-4gQlaiD8m" style="text-decoration : none;color: #cc0000">[Slides]</a>
@@ -123,7 +123,7 @@ layout: page
 
     <li>
     <b>Evaluating and Accelerating High-Fidelity Error Injection for HPC,</b>
-    <br>Chun-Kai Chang, <b><u>Sangkug Lym</u></b>, Nicholas Kelly, Michael B. Sullivan, Mattan Erez
+    <br>Chun-Kai Chang, <b><u>Sangkug Lym</u></b>, Nicholas Kelly, Michael B. Sullivan, and Mattan Erez
     <br><i>International Conference for High Performance Computing, Networking, Storage and Analysis (SC), Nov 2018</i>
     <a href="http://lph.ece.utexas.edu/merez/uploads/MattanErez/sc18_hamartia.pdf" style="text-decoration : none;color: #cc0000">[Paper]</a>
 <!-- Acceptance rate: 24.1%-->
@@ -131,7 +131,7 @@ layout: page
 
     <li>
     <b>Hamartia: A Fast and Accurate Error Injection Framework,</b>
-    <br>Chun-Kai Chang, <b><u>Sangkug Lym</u></b>, Nicholas Kelly, Michael B. Sullivan, Mattan Erez
+    <br>Chun-Kai Chang, <b><u>Sangkug Lym</u></b>, Nicholas Kelly, Michael B. Sullivan, and Mattan Erez
     <br><i>SELSE (invited to the best SELSE papers session in DSN 2018), Apr 2018</i>
     <a href="https://ieeexplore.ieee.org/abstract/document/8416231/" style="text-decoration : none;color: #cc0000">[Paper]</a>
     <a href="http://lph.ece.utexas.edu/users/hamartia/" style="text-decoration : none;color: #cc0000">[Code]</a>
