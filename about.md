@@ -63,7 +63,7 @@ layout: page
     <li>
     <b>Hewlett Packard Labs (Palo Alto, CA)</b >
     <br>
-    <div style="float: left"><b><i>Research tntern @Platform architecture group</i></b></div>
+    <div style="float: left"><b><i>Research intern @Platform architecture group</i></b></div>
     <div style="float: right">05/2016 - 08/2016</div>
     <br>Persistent memory system architecture, Memory centric computing, DRAM cache simulator design
     </li><br>
