@@ -1,4 +1,4 @@
----
+learinng---
 title: About
 layout: page
 ---
@@ -47,7 +47,7 @@ layout: page
     <li>
     <b>NVIDIA (Santa Clara, CA)</b>
     <br>
-    <div style="float: left"><b><i>Deep learinng architecture intern @Deep learning architecture group</i></b></div>
+    <div style="float: left"><b><i>Deep learning architecture intern @Deep learning architecture group</i></b></div>
     <div style="float: right">05/2018 - 08/2018</div>
     <br>Deep learning workload analysis, GPU deep learning kernel analysis for fast network model training
     </li><br>
