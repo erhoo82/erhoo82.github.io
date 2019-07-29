@@ -39,7 +39,7 @@ layout: page
     <li>
     <b>Microsoft (Redmond, WA)</b>
     <br>
-    <div style="float: left"><b><i>Research intern @AI & Advanced architecture Group</i></b></div>
+    <div style="float: left"><b><i>Research intern @AI & advanced architecture group</i></b></div>
     <div style="float: right">05/2019 - 08/2019</div>
     <br>
     </li><br>
