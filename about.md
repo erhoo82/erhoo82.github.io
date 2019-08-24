@@ -97,8 +97,16 @@ layout: page
     <b>PruneTrain: Fast Neural Network Training by Dynamic Sparse Model Reconfiguration,</b>
     <br><b><u>Sangkug Lym</u></b>, Esha Choukse, Siavash Zangeneh, Wei Wen, Sujay Sanghavi, and Mattan Erez
     <br><i>International Conference for High Performance Computing, Networking, Storage and Analysis (SC), Nov 2019</i>
+<!-- Nominated for the best paper award -->
     <a href="https://arxiv.org/pdf/1901.09290.pdf" style="text-decoration : none;color: #cc0000">[Paper]</a>
     <a href="https://bitbucket.org/lph_tools/prunetrain" style="text-decoration : none;color: #cc0000">[Code]</a>
+    </li><br>
+
+    <li>
+    <b>Near Data Acceleration with Concurrent Host Access,</b>
+    <br>Benjamin Y Cho, Yongkee Kwon, <b><u>Sangkug Lym</u></b>, Mattan Erez
+    <br><i>Preprint @arXiv</i>
+    <a href="https://arxiv.org/pdf/1908.06362.pdf" style="text-decoration : none;color: #cc0000">[Paper]</a>
     </li><br>
 
     <li>
