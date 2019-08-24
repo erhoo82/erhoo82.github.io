@@ -103,7 +103,7 @@ layout: page
     </li><br>
 
     <li>
-    <b>Near Data Acceleration with Concurrent Host Access,</b>
+    <b>CHoNDA: Near Data Acceleration with Concurrent Host Access,</b>
     <br>Benjamin Y Cho, Yongkee Kwon, <b><u>Sangkug Lym</u></b>, Mattan Erez
     <br><i>Preprint @arXiv</i>
     <a href="https://arxiv.org/pdf/1908.06362.pdf" style="text-decoration : none;color: #cc0000">[Paper]</a>
