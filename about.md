@@ -94,6 +94,13 @@ layout: page
 <ul>
 
     <li>
+    <b>BranchNet: Using Offline Deep Learning To Predict Hard-To-Predict Branches,</b>
+    <br>Siavash Zangeneh, Stephen Pruett, <b><u>Sangkug Lym</u></b>, Yale N. Patt
+    <br><i>Technical report, Preprint</i>
+    <a href="https://hps.ece.utexas.edu/pub/TR-HPS-2019-002.pdf" style="text-decoration : none;color: #cc0000">[Paper]</a>
+    </li><br>
+
+    <li>
     <b>CHoNDA: Near Data Acceleration with Concurrent Host Access,</b>
     <br>Benjamin Y Cho, Yongkee Kwon, <b><u>Sangkug Lym</u></b>, Mattan Erez
     <br><i>Preprint @arXiv</i>
