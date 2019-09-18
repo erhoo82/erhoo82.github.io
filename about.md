@@ -41,6 +41,7 @@ layout: page
     <br>
     <div style="float: left"><b><i>Research intern @AI & advanced architecture group</i></b></div>
     <div style="float: right">05/2019 - 08/2019</div>
+    <br>Deep learning model performance analysis, accelerator architecture design space exploration
     <br>
     </li><br>
 
