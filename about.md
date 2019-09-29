@@ -94,12 +94,14 @@ layout: page
 <h2>Publication<hr></h2>
 <ul>
 
+<!--
     <li>
     <b>BranchNet: Using Offline Deep Learning To Predict Hard-To-Predict Branches,</b>
     <br>Siavash Zangeneh, Stephen Pruett, <b><u>Sangkug Lym</u></b>, Yale N. Patt
     <br><i>Technical report, Preprint</i>
     <a href="https://hps.ece.utexas.edu/pub/TR-HPS-2019-002.pdf" style="text-decoration : none;color: #cc0000">[Paper]</a>
     </li><br>
+-->
 
     <li>
     <b>CHoNDA: Near Data Acceleration with Concurrent Host Access,</b>
@@ -112,7 +114,7 @@ layout: page
     <b>PruneTrain: Fast Neural Network Training by Dynamic Sparse Model Reconfiguration,</b>
     <br><b><u>Sangkug Lym</u></b>, Esha Choukse, Siavash Zangeneh, Wei Wen, Sujay Sanghavi, and Mattan Erez
     <br><i>International Conference for High Performance Computing, Networking, Storage and Analysis (SC), Nov 2019</i>
-<!-- Nominated for the best paper award -->
+<!-- Best paper finalist -->
     <a href="https://arxiv.org/pdf/1901.09290.pdf" style="text-decoration : none;color: #cc0000">[Paper]</a>
     <a href="https://bitbucket.org/lph_tools/prunetrain" style="text-decoration : none;color: #cc0000">[Code]</a>
     </li><br>
