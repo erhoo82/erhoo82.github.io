@@ -207,6 +207,7 @@ layout: page
 <h2>Related Graduate Courses<hr></h2>
 <ul>
     <li><b>Computer Architecture</b><br>
+    VLSI Design (EE 360R) <br>
     Computer Architecture (EE 382N 1) <br>
     High Speed Computer Arithmetic (EE 382N 14) <br>
     GPUs and Parallel Processors: Parallelism & Locality (EE 382N 20) <br>
