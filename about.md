@@ -185,6 +185,11 @@ layout: page
 <h2>Invited Talks<hr></h2>
 <ul>
     <li>
+    <b>"PruneTrain: Fast Neural Network Training by Dynamic Sparse Model Reconfiguration", </b> 
+    SC'19, Denver, CO
+    </li>
+
+    <li>
     <b>"Mini-batch Serialization: CNN Training with Inter-layer Data Reuse", </b> 
     SysML'19, Stanford, CA
     </li>
