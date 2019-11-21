@@ -116,6 +116,7 @@ layout: page
     <br><i>International Conference for High Performance Computing, Networking, Storage and Analysis (SC), Nov 2019</i>
 <!-- Best paper finalist -->
     <a href="https://arxiv.org/pdf/1901.09290.pdf" style="text-decoration : none;color: #cc0000">[Paper]</a>
+    <a href="https://drive.google.com/open?id=1V5YThGlUvrgisHfOpb3ZCvhGKD8Lx8Jq" style="text-decoration : none;color: #cc0000">[Slides]</a>
     <a href="https://bitbucket.org/lph_tools/prunetrain" style="text-decoration : none;color: #cc0000">[Code]</a>
     </li><br>
 
