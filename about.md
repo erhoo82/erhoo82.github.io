@@ -30,7 +30,7 @@ layout: page
     <b>The University of Texas at Austin (Austin, Tx)</b>
     <br>
     <div style="float: left"><b><i>Graduate research assistant @<a href="https://lph.ece.utexas.edu/merez/MattanErez/Research" style="text-decoration : none;color: #cc0000">LPH Group</a></i></b></div>
-    <div style="float: right">08/2015 - present</div>
+    <div style="float: right">08/2015 - 12/2019</div>
     <br>Machine learning acceleration (Algorithm, SW implementation, workload scheduling, and HW optimization)
     <br>High performance and energy efficient memory system design
     <br>(Micro)Architecture level fault injection modeling and application fault tolerance analysis
