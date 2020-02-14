@@ -34,7 +34,7 @@ layout: page
     <b>NVIDIA (Santa Clara, CA)</b>
     <br>
     <div style="float: left"><b><i>Sr. Deep Learning Computer Architect @Deep learning architecture group</i></b></div>
-    <div style="float: right">01/2019 - current</div>
+    <div style="float: right">01/2019 - Current</div>
     <br>Deep learning workload analysis
     <br>GPU architecture and kernel optimization for fast neural network model training
     </li><br>
