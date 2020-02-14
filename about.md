@@ -9,7 +9,7 @@ layout: page
 <p>I am a 5th-year Ph.D candidate majoring in computer architecture at UT Austin and I am getting research advice from <a href="https://lph.ece.utexas.edu/merez/MattanErez/MattanErez" style="text-decoration : none;color: #cc0000"> Professor Mattan Erez</a>. My current research interests are i) machine learning acceleration, ii) energy efficient and high-performance memory system, and iii) system fault resilience .
 </p>
 -->
-<p>I am a senior computer architect at Nvidia. I improve GPU architecture and kernel design to optimize the performance of various deep learning applications, which involves in-depth application performance analysis. Before I joined Nvidia, I worked for SK hynix as a phase change memory chip designer and a memory system performance engineer. I received my Ph.D. in Electrical and Computer Engineering from the University of Texas at Austin, where I received research advice from <a href="https://lph.ece.utexas.edu/merez/MattanErez/MattanErez" style="text-decoration : none;color: #cc0000"> professor Mattan Erez</a>
+<p>I am a senior computer architect at Nvidia. I improve GPU architecture and kernel design to optimize the performance of various deep learning applications, which involves in-depth application performance analysis. Before I joined Nvidia, I worked for SK hynix as a phase change memory chip designer and a memory system performance engineer. I received my Ph.D. in Electrical and Computer Engineering from the University of Texas at Austin, where I received research advice from <a href="https://lph.ece.utexas.edu/merez/MattanErez/MattanErez" style="text-decoration : none;color: #cc0000"> professor Mattan Erez</a>.
 </p>
 
 <h2>Education<hr></h2>
