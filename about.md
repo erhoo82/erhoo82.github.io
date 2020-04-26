@@ -116,6 +116,11 @@ layout: page
     <a href="https://hps.ece.utexas.edu/pub/TR-HPS-2019-002.pdf" style="text-decoration : none;color: #cc0000">[Paper]</a>
     </li><br>
 -->
+    <li>
+    <b>FlexSA: Flexible Systolic Array Architecture for Efficient Pruned DNN Model Training,</b>
+    <br><b><u>Sangkug Lym</u></b> and Mattan Erez
+    <br><i>Pretext, Mar 2020.</i>
+    </li><br>
 
     <li>
     <b>Near Data Acceleration with Concurrent Host Access,</b>
