@@ -98,10 +98,9 @@ layout: page
     <br>
     <div style="float: left"><b><i>PCRAM architecture & circuit design engineer @Next generation memory design team</i></b></div>
     <div style="float: right">12/2007 - 04/2012</div>
-    <br>PCRAM architecture design and memor
-    y core functionality optimization
-    <br>PCRAM data interface design and physical layout design
-    <br>Wafer level PCRAM functionality analysis and SLC and MLC cell transition characteristic evaluation
+    <br>PCRAM architecture design and memory core functionality optimization
+    <br>PCRAM data interface and physical layout design
+    <br>Wafer-level PCRAM functionality analysis and SLC and MLC cell transition characteristic evaluation
     </li>
 </ul>
 
