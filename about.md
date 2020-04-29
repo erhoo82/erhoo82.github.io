@@ -80,7 +80,7 @@ layout: page
     <br>
     <div style="float: left"><b><i>Research intern @Platform architecture group</i></b></div>
     <div style="float: right">05/2016 - 08/2016</div>
-    <br>Persistent memory system architecture, Memory centric computing, DRAM cache simulator design
+    <br>Persistent memory system architecture, memory centric computing, DRAM cache simulator design
     </li><br>
 
     <li>
