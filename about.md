@@ -118,7 +118,7 @@ layout: page
     <li>
     <b>FlexSA: Flexible Systolic Array Architecture for Efficient Pruned DNN Model Training,</b>
     <br><b><u>Sangkug Lym</u></b> and Mattan Erez
-    <br><i>Pretext @arXiv, Mar 2020.</i>
+    <br><i>Preprint @arXiv, Mar 2020.</i>
     <a href="https://arxiv.org/pdf/2004.13027.pdf" style="text-decoration : none;color: #cc0000">[Paper]</a>
     </li><br>
 
