@@ -227,6 +227,10 @@ layout: page
     <b>"JEDEC DDR4 Workshop: DDR4 Operation Specifics", </b> 2013 DDR4 Workshop, Santa Clara, CA 
     <a href="https://www.jedec.org/ddr4workshop" style="text-decoration : none;color: #cc0000">[Video]</a>
     </li>
+
+    <li>
+    <b>"JEDEC DDR4 Workshop: DDR4 Operation Specifics", </b> 2013 DDR4 Workshop, Hsinchu, Tiwan
+    </li>
 </ul>
 
 <h2>Related Graduate Courses<hr></h2>
