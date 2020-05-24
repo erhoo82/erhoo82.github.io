@@ -233,6 +233,13 @@ layout: page
     </li>
 </ul>
 
+<h2>Journal Review<hr></h2>
+<ul>
+    <li>
+    <b>"IEEE Transactions on Knowledge and Data Engineering" </b> 
+    </li>
+</ul>
+
 <h2>Related Graduate Courses<hr></h2>
 <ul>
     <li><b>Computer Architecture</b><br>
