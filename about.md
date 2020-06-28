@@ -238,6 +238,10 @@ layout: page
     <li>
     <b>IEEE Transactions on Knowledge and Data Engineering (TKDE)</b> 
     </li>
+
+    <li>
+    <b>IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD)</b>
+    </li>
 </ul>
 
 <h2>Related Graduate Courses<hr></h2>
