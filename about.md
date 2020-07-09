@@ -107,14 +107,14 @@ layout: page
 <h2>Publication<hr></h2>
 <ul>
 
-<!--
+
     <li>
-    <b>BranchNet: Using Offline Deep Learning To Predict Hard-To-Predict Branches,</b>
+    <b>BranchNet: A Convolutional Neural Network to Predict Hard-To-Predict Branches,</b>
     <br>Siavash Zangeneh, Stephen Pruett, <b><u>Sangkug Lym</u></b>, Yale N. Patt
-    <br><i>Technical report, Preprint</i>
-    <a href="https://hps.ece.utexas.edu/pub/TR-HPS-2019-002.pdf" style="text-decoration : none;color: #cc0000">[Paper]</a>
+    <br><i>IEEE/ACM International Symposium on Microarchitecture (MICRO), Oct 2020</i> 
+<!-- <a href="https://hps.ece.utexas.edu/pub/TR-HPS-2019-002.pdf" style="text-decoration : none;color: #cc0000">[Paper]</a> -->
     </li><br>
--->
+
     <li>
     <b>FlexSA: Flexible Systolic Array Architecture for Efficient Pruned DNN Model Training,</b>
     <br><b><u>Sangkug Lym</u></b> and Mattan Erez
@@ -125,7 +125,7 @@ layout: page
     <li>
     <b>Near Data Acceleration with Concurrent Host Access,</b>
     <br>Benjamin Y Cho, Yongkee Kwon, <b><u>Sangkug Lym</u></b>, Mattan Erez
-    <br><i>International Symposium on Computer Architecture (ISCA), June 2020.</i>
+    <br><i>International Symposium on Computer Architecture (ISCA), Jun 2020.</i>
     <a href="https://arxiv.org/pdf/1908.06362.pdf" style="text-decoration : none;color: #cc0000">[Paper]</a>
     </li><br>
 
