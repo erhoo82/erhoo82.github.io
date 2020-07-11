@@ -111,7 +111,7 @@ layout: page
     <li>
     <b>BranchNet: A Convolutional Neural Network to Predict Hard-To-Predict Branches,</b>
     <br>Siavash Zangeneh, Stephen Pruett, <b><u>Sangkug Lym</u></b>, Yale N. Patt
-    <br><i>IEEE/ACM International Symposium on Microarchitecture (MICRO), Oct 2020</i> 
+    <br><i> IEEE/ACM 53rd International Symposium on Microarchitecture (MICRO), Oct 2020</i> 
 <!-- <a href="https://hps.ece.utexas.edu/pub/TR-HPS-2019-002.pdf" style="text-decoration : none;color: #cc0000">[Paper]</a> -->
     </li><br>
 
@@ -125,7 +125,7 @@ layout: page
     <li>
     <b>Near Data Acceleration with Concurrent Host Access,</b>
     <br>Benjamin Y Cho, Yongkee Kwon, <b><u>Sangkug Lym</u></b>, Mattan Erez
-    <br><i>International Symposium on Computer Architecture (ISCA), Jun 2020.</i>
+    <br><i> ACM/IEEE 47th International Symposium on Computer Architecture (ISCA), Jun 2020.</i>
     <a href="https://arxiv.org/pdf/1908.06362.pdf" style="text-decoration : none;color: #cc0000">[Paper]</a>
     </li><br>
 
@@ -142,7 +142,7 @@ layout: page
     <li>
     <b>Mini-batch Serialization: CNN Training with Inter-layer Data Reuse,</b>
     <br><b><u>Sangkug Lym</u></b>, Armand Behroozi, Wei Wen, Ge Li, Yongkee Kwon, and Mattan Erez 
-    <br><i>The Conference on Machine Learning and Systems (MLSys), Apr 2019</i>
+    <br><i>The 2nd Conference on Machine Learning and Systems (MLSys), Apr 2019</i>
     <a href="https://arxiv.org/pdf/1810.00307.pdf" style="text-decoration : none;color: #cc0000">[Paper]</a>
     <a href="https://drive.google.com/open?id=1fU83QzRyL6U59o2eu-l6nIlOf4h66UXH" style="text-decoration : none;color: #cc0000">[Slides]</a>
     <a href="https://bitbucket.org/lph_tools/mini-batch-serialization" style="text-decoration : none;color: #cc0000">[Code]</a>
@@ -153,7 +153,7 @@ layout: page
     <li>
     <b>DeLTA: GPU Performance Model for Deep Learning Applications with In-depth Memory System Traffic Analysis,</b>
     <br><b><u>Sangkug Lym</u></b>, Donghyuk Lee, Mike O'Connor, Niladrish Chatterjee, and Mattan Erez 
-    <br><i>International Symposium on Performance Analysis of Systems and Software (ISPASS), Mar 2019</i>
+    <br><i>IEEE International Symposium on Performance Analysis of Systems and Software (ISPASS), Mar 2019</i>
     <a href="https://arxiv.org/pdf/1904.01691.pdf" style="text-decoration : none;color: #cc0000">[Paper]</a>
     <a href="https://drive.google.com/open?id=13bkgjCs2E9GXS2Hkk3CAQv-4gQlaiD8m" style="text-decoration : none;color: #cc0000">[Slides]</a>
 <!-- Acceptance rate: 29.5%-->
@@ -178,7 +178,7 @@ layout: page
     <li>
     <b>ERUCA: Efficient DRAM Resource Utilization and Resource Conflict Avoidance for Memory System Parallelism,</b>
     <br><b><u>Sangkug Lym</u></b>, Heonjae Ha, Yongkee Kwon, Chun-Kai Chang, Jungrae Kim, and Mattan Erez
-    <br><i>International Symposium on High-Performance Computer Architecture (HPCA), Feb 2018</i>
+    <br><i>IEEE 24th International Symposium on High-Performance Computer Architecture (HPCA), Feb 2018</i>
     <a href="http://lph.ece.utexas.edu/merez/uploads/MattanErez/eruca_hpca18.pdf" style="text-decoration : none;color: #cc0000">[Paper]</a>
     <a href="https://drive.google.com/open?id=1fCXr7KSISGBi3Z6_SOUPa9Sl-MrrCla1" style="text-decoration : none;color: #cc0000">[Slides]</a>
 <!-- acceptace rate: 20.8%    --> 
@@ -187,7 +187,7 @@ layout: page
     <li>
     <b>DUO: Exposing On-chip Redundancy to Rank-Level ECC for High Reliability,</b>
     <br>Seong-Lyong Gong, Jungrae Kim, <b><u>Sangkug Lym</u></b>, Michael Sullivan, Howard David, and Mattan Erez
-    <br><i>International Symposium on High-Performance Computer Architecture (HPCA), Feb 2018</i>
+    <br><i>IEEE 24th International Symposium on High-Performance Computer Architecture (HPCA), Feb 2018</i>
     <a href="http://lph.ece.utexas.edu/merez/uploads/MattanErez/duo_hpca18.pdf" style="text-decoration : none;color: #cc0000">[Paper]</a>
 <!-- acceptace rate: 20.8%    --> 
     </li><br>
@@ -195,7 +195,7 @@ layout: page
     <li>
     <b>All-Inclusive ECC: Thorough End-to- End Protection for Reliable Computer Memory,</b>
     <br>Jungrae Kim, Michael Sullivan, <b><u>Sangkug Lym</u></b>, and Mattan Erez
-    <br><i>International Symposium on Computer Architecture (ISCA), June 2016.</i>
+    <br><i>ACM/IEEE 43rd International Symposium on Computer Architecture (ISCA), June 2016.</i>
     <a href="http://lph.ece.utexas.edu/merez/uploads/MattanErez/isca2016_aiecc.pdf" style="text-decoration : none;color: #cc0000">[Paper]</a>
 <!-- acceptace rate: 19.5%    --> 
     </li>
