@@ -112,7 +112,7 @@ layout: page
     <b>BranchNet: A Convolutional Neural Network to Predict Hard-To-Predict Branches,</b>
     <br>Siavash Zangeneh, Stephen Pruett, <b><u>Sangkug Lym</u></b>, Yale N. Patt
     <br><i> IEEE/ACM 53rd International Symposium on Microarchitecture (MICRO), Oct 2020</i> 
-<!-- <a href="https://hps.ece.utexas.edu/pub/TR-HPS-2019-002.pdf" style="text-decoration : none;color: #cc0000">[Paper]</a> -->
+    <a href="https://www.microarch.org/micro53/papers/738300a118.pdf" style="text-decoration : none;color: #cc0000">[Paper]</a>
     </li><br>
 
     <li>
