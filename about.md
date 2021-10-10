@@ -35,8 +35,8 @@ layout: page
     <br>
     <div style="float: left"><b><i>Sr. Deep Learning Computer Architect @Deep learning architecture group</i></b></div>
     <div style="float: right">01/2019 - Current</div>
-    <br>Deep learning workload analysis
-    <br>GPU architecture and kernel optimization for fast neural network model training
+    <br>GPU computer architecture
+    <br>SW stack implemenation and optimization for deep learning workload acceleration
     </li><br>
 
 
