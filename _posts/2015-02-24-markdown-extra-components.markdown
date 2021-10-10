@@ -8,6 +8,7 @@ tag:
 - markdown
 - components
 - extra
+hidden: true # don't count this post in blog pagination
 category: blog
 author: jamesfoster
 description: Markdown summary with different options
