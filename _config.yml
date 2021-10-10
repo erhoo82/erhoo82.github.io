@@ -37,20 +37,6 @@ facebook: sangkug.lym
 googlescholar: citations?hl=en&user=bGc7lRMAAAAJ&authorid=2224392335791832711&view_op=list_works
 linkedin: sangkug-lym-1827b566
 email: sangkug.lym@gmail.com
-#twitter: mytwitter
-#google: https://scholar.google.co.kr/citations?user=bGc7lRMAAAAJ&hl=en
-# instagram: myinstagram
-# pinterest: mypinterest
-# youtube: myyoutube
-# spotify: myspotify
-# github: mygithub
-# lastfm: mylastfm
-# stackoverflow: 7044681/mystackoverflow
-# quora: userquora
-# reddit: username
-# medium: medium
-# vimeo: myvimeo
-# lanyrd: mylanyrd
 
 # do you want a larger site? change the option below
 # options: [normal, large] | default: normal
@@ -66,7 +52,7 @@ about: true
 #projects: true
 
 # if you don't need "about" or "blog", comment them out below
-#blog: true
+blog: true
 
 # do you want to show the "read time" of the posts?
 read-time: true
