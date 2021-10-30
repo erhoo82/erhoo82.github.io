@@ -9,6 +9,7 @@ tag:
 category: blog
 author: Sangkug Lym
 description: Paper review of PruneTrain
+hidden: true
 ---
 
 ## Contributions
