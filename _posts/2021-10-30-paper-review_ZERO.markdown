@@ -14,7 +14,7 @@ hidden: true
 
 My thoughts...
 
-## Problem summary with the addition of my thoughts
+## Summary of problems with the addition of my thoughts
 
 __High memory requirement:__ Training a language model with billions of parameters needs a huge GPU memory space. Unlike the well-known memory requirement of training such as the allocation of (1) model parameters and (2) input activations (needed to compute the derivate loss in backprop), training involves extra memory needs: (3) optimizer states, (4) gradients, (5) master parameters (half-precision training), (6) temporal buffers (to hold inputs or outputs upon eGPU operator execution), and (7) input buffers. Especially, optimizer states becomes the biggest memory occupier when training a large language model. Due to the high memory requirement, a large training system with hundreds of GPU nodes is needed and this often limits the size of model to train.
 
@@ -24,7 +24,7 @@ __Suboptimal parallelism:__ DP (Data Parallelism) is the most commonly used tech
 
 ## Contributions
 
-- The authors first propose __ZeRO-DP__, the solution to remove memory redundancy among data-parallel ranks. ZeRO-DP partitions (1) optimizer states, (2) gradients, and (3) parameters across data-parallel ranks and achieves linear memory saving with the increasing number of GPUs in the training system.
+- The authors propose __ZeRO-DP__, the solution to remove memory redundancy among data-parallel ranks. ZeRO-DP partitions (1) optimizer states, (2) gradients, and (3) parameters across data-parallel ranks and achieves linear memory saving with the increasing number of GPUs in the training system.
 
 - As the solution to save the residual state memory usage per GPU, the authors propose __ZeRO-R__. ZeRO-R uses (1) activations checkpoint, (2) activations off-loading to system memory, (3) improved temporal buffer memory, and (4) less memory fragmentation with pre-allocation.
 
@@ -33,7 +33,13 @@ __Suboptimal parallelism:__ DP (Data Parallelism) is the most commonly used tech
 ## Main ideas explained
 
 ### ZeRO-DP
-I think ZeRO-DP is the key of this paper as the ideas are focused on a large language model where the model parameter-associated memory allocation dominates the memory usage. Language models are known to work well with mixed-precision (ref) and, assuming this training mode, training needs memory for 5 copies of parameters; model parameters, master parameters, parameter gradients, and optimizer states (optimizer needs 2X copies of parameters assuming Adam). Among these, master parameters and optimizer states are maintained in fp32 and the rest are in fp16. When deploying a model with 10B parameters, 
+I think ZeRO-DP is the key of this paper as the ideas are focused on a large language model, where the model parameter-associated memory allocation dominates the memory usage. Language models are known to work well with mixed-precision (ref) and, assuming this training mode, training process needs memory for 5 copies of parameters; model parameters, master model parameters, parameter gradients, and optimizer states (memory of 2X copies of parameters needed assuming Adam optimizer). Among these, master parameters and optimizer states are maintained in fp32 and the rest are in fp16. When deploying a model with 10B parameters, 160GB memory is needed for the model parameter-related memory storage. ZeRO-DP consists of partitioning optimizer states, parameter gradients, and parameters across data-parallel ranks, which are denoted as Pos, Pg, and Pp in Figure 1. 
+
+__Pos:__ Optimizer states partitioning 
+
+This reduces per-rank parameter-associated memory allocation linearly to the number of GPUs in the data-parallel dimension as shown in Figure 1. In this example, 7.5 billion parameters are distributed to 64 GPUs thus the memory requirement per rank drops from 120GB to 1.9GB. 
+
+Both Pos and Pos+g do not have any additional performance overhead, but Pos+g+p adds 50% gradient allreduce communication volume because ....
 
 ### ZeRO-R
 
