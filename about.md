@@ -107,6 +107,12 @@ layout: page
 <h2>Publication<hr></h2>
 <ul>
 
+    <li>
+    <b>Reducing Activation Recomputation in Large Transformer Models,</b>
+    <br>Vijay Korthikanti, Jared Casper, <b><u>Sangkug Lym</u></b>, Lawrence McAfee, Michael Andersch, Mohammad Shoeybi, Bryan Catanzaro
+    <br><i>Publication @arXiv, Mar 2020.</i>
+    <a href="https://arxiv.org/pdf/2205.05198.pdf" style="text-decoration : none;color: #cc0000">[Paper]</a>
+    </li><br>
 
     <li>
     <b>BranchNet: A Convolutional Neural Network to Predict Hard-To-Predict Branches,</b>
@@ -118,7 +124,7 @@ layout: page
     <li>
     <b>FlexSA: Flexible Systolic Array Architecture for Efficient Pruned DNN Model Training,</b>
     <br><b><u>Sangkug Lym</u></b> and Mattan Erez
-    <br><i>Preprint @arXiv, Mar 2020.</i>
+    <br><i>Publication @arXiv, Mar 2020.</i>
     <a href="https://arxiv.org/pdf/2004.13027.pdf" style="text-decoration : none;color: #cc0000">[Paper]</a>
     </li><br>
 
