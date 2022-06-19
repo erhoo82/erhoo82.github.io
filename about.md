@@ -110,7 +110,7 @@ layout: page
     <li>
     <b>Reducing Activation Recomputation in Large Transformer Models,</b>
     <br>Vijay Korthikanti, Jared Casper, <b><u>Sangkug Lym</u></b>, Lawrence McAfee, Michael Andersch, Mohammad Shoeybi, Bryan Catanzaro
-    <br><i>Publication @arXiv, Mar 2020.</i>
+    <br><i>Publication @arXiv, May 2022.</i>
     <a href="https://arxiv.org/pdf/2205.05198.pdf" style="text-decoration : none;color: #cc0000">[Paper]</a>
     </li><br>
 
