@@ -41,7 +41,7 @@ For more details about me, please refer <a href="https://drive.google.com/file/d
     <br>
     <div style="float: left"><b><i>Sr. Deep Learning Computer Architect @Deep learning architecture group</i></b></div>
     <div style="float: right">01/2019 - Current</div>
-    <br>Tech lead of a system software engineering team focused on performance optimization for large language models
+    <br>Tech lead of a system software engineering team focused on large language model performance optimization
     <br>SW and HW co-design for deep learning performance optimization
     <br>GPU system performance engineering
 
