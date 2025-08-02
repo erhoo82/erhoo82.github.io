@@ -9,13 +9,13 @@ layout: page
 <p>I am a 5th-year Ph.D candidate majoring in computer architecture at UT Austin and I am getting research advice from <a href="https://lph.ece.utexas.edu/merez/MattanErez/MattanErez" style="text-decoration : none;color: #cc0000"> Professor Mattan Erez</a>. My current research interests are i) machine learning acceleration, ii) energy efficient and high-performance memory system, and iii) system fault resilience .
 </p>
 -->
-<p>I am a computer architect and a system software engineer at NVIDIA</a>.
+<p>I am a computer architect and a system software engineer at <a href="https://www.nvidia.com/" style="text-decoration : none;color: #cc0000">NVIDIA</a>.
 My work and research focus on developing the software stack and optimizing GPU architecture performance for deep learning acceleration.
-Before I joined NVIDIA, I worked for SK hynix as a HW engineer, where I made a major contribution to many projects on phase-change memory design and memory system performance optimization.
+Before I joined NVIDIA, I worked for <a href="https://www.skhynix.com" style="text-decoration : none;color: #cc0000">SK hynix</a> as a memory system engineer, where I made a major contribution to many projects on phase-change memory design and memory system performance optimization.
 I received my Ph.D. in Electrical and Computer Engineering from the University of Texas at Austin, where I worked with <a href="https://lph.ece.utexas.edu/merez/MattanErez/MattanErez" style="text-decoration : none;color: #cc0000"> professor Mattan Erez</a>.
 My dissertation, <a href="https://repositories.lib.utexas.edu/bitstream/handle/2152/81143/LYM-DISSERTATION-2019.pdf?sequence=1" style="text-decoration : none;color: #cc0000">Efficient Deep Neural Network Model Training by Reducing Memory and Compute Demands</a>, covers SW, HW, and algorithm co-design for performance-efficient deep neural network model training. 
 
-For details about me, please refer <a href="https://drive.google.com/file/d/1Rj7I7bTtlKcTAexeUjdYCgTHVaP1FHNv/view?usp=sharing" style="text-decoration : none;color: #cc0000"> my resume</a>.
+For more details about me, please refer <a href="https://drive.google.com/file/d/1jOGwb1wWFnrLvLIiuRO-qKAL_EaaVzKo/view?usp=sharing" style="text-decoration : none;color: #cc0000"> my resume</a>.
 </p>
 
 <h2>Education<hr></h2>
