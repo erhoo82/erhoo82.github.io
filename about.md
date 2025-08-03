@@ -15,7 +15,7 @@ Before I joined NVIDIA, I worked for <a href="https://www.skhynix.com" style="te
 I received my Ph.D. in Electrical and Computer Engineering from the University of Texas at Austin, where I worked with <a href="https://lph.ece.utexas.edu/merez/MattanErez/MattanErez" style="text-decoration : none;color: #cc0000"> professor Mattan Erez</a>.
 My dissertation, <a href="https://repositories.lib.utexas.edu/bitstream/handle/2152/81143/LYM-DISSERTATION-2019.pdf?sequence=1" style="text-decoration : none;color: #cc0000">Efficient Deep Neural Network Model Training by Reducing Memory and Compute Demands</a>, covers SW, HW, and algorithm co-design for performance-efficient deep neural network model training. 
 
-For more details about me, please refer <a href="https://drive.google.com/file/d/1jOGwb1wWFnrLvLIiuRO-qKAL_EaaVzKo/view?usp=sharing" style="text-decoration : none;color: #cc0000"> my resume</a>.
+For more details about me, please refer <a href="https://drive.google.com/file/d/1CULApc_B5PO3Y-yyvglcBBEfrSOg9LtF/view?usp=sharing" style="text-decoration : none;color: #cc0000"> my resume</a>.
 </p>
 
 <h2>Education<hr></h2>
