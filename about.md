@@ -215,6 +215,7 @@ For more details about me, please refer <a href="https://drive.google.com/file/d
     </li>
 </ul>
 
+<!--
 <h2>Invited Talks<hr></h2>
 <ul>
     <li>
@@ -247,7 +248,6 @@ For more details about me, please refer <a href="https://drive.google.com/file/d
     </li>
 </ul>
 
-<!--
 <h2>Journal Review<hr></h2>
 <ul>
     <li>
