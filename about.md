@@ -11,6 +11,7 @@ layout: page
 -->
 <p>I am a computer architect and a system software engineer at <a href="https://www.nvidia.com/" style="text-decoration : none;color: #cc0000">NVIDIA</a>.
 My work and research focus on developing the software stack and optimizing GPU architecture performance for deep learning acceleration.
+I am currently leading a team focused on optimizing the NVIDIA deep learning software stack (<a href="https://github.com/NVIDIA/NeMo" style="text-decoration : none;color: #cc0000">NeMo</a>, <a href="https://github.com/NVIDIA-NeMo/RL" style="text-decoration : none;color: #cc0000">NeMo-RL</a>, <a href="https://github.com/NVIDIA/Megatron-LM" style="text-decoration : none;color: #cc0000">Megatron</a>, and <a href="https://github.com/NVIDIA/TransformerEngine" style="text-decoration : none;color: #cc0000">Transformer Engine</a>) for fast and efficient large language model training.
 Before I joined NVIDIA, I worked for <a href="https://www.skhynix.com" style="text-decoration : none;color: #cc0000">SK hynix</a> as a memory system engineer, where I made a major contribution to many projects on phase-change memory design and memory system performance optimization.
 I received my Ph.D. in Electrical and Computer Engineering from the University of Texas at Austin, where I worked with <a href="https://lph.ece.utexas.edu/merez/MattanErez/MattanErez" style="text-decoration : none;color: #cc0000"> professor Mattan Erez</a>.
 My dissertation, <a href="https://repositories.lib.utexas.edu/bitstream/handle/2152/81143/LYM-DISSERTATION-2019.pdf?sequence=1" style="text-decoration : none;color: #cc0000">Efficient Deep Neural Network Model Training by Reducing Memory and Compute Demands</a>, covers SW, HW, and algorithm co-design for performance-efficient deep neural network model training. 
@@ -35,16 +36,17 @@ For more details about me, please refer <a href="https://drive.google.com/file/d
 </ul>
 
 <h2>Research and Work Experience<hr></h2>
-<ul> 
+<ul>
     <li>
     <b>NVIDIA (Redmond, WA)</b>
     <br>
-    <div style="float: left"><b><i>Sr. Deep Learning Computer Architect @Deep learning architecture group</i></b></div>
-    <div style="float: right">01/2019 - Current</div>
-    <br>Tech lead of a system software engineering team focused on large language model performance optimization
+    <div style="float: left"><b><i>Senior Manager @Deep learning architecture group</i></b></div>
+    <div style="float: right">03/2026 - Current</div>
+    <br>(03/2026-Current) Senior Manager of AI architecture
+    <br>(09/2024-03/2026) Tech lead of a system software engineering team focused on large language model performance optimization
+    <br>(01/2020-09/2024) Senior Computer Architect, developing and analyzing the core technologies for LLM training performance
     <br>SW and HW co-design for deep learning performance optimization
-    <br>GPU system performance engineering
-
+    <br>System performance engineering for LLM training acceleration
     </li><br>
 
 
