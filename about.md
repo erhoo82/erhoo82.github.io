@@ -43,7 +43,7 @@ For more details about me, please refer <a href="https://drive.google.com/file/d
     <div style="float: left"><b><i>Senior Manager @Deep learning architecture group</i></b></div>
     <div style="float: right">01/2020 - Current</div>
     <br>(03/2026-Current) Senior Manager of AI architecture
-    <br>(09/2024-03/2026) Tech lead of a system software engineering team focused on large language model performance optimization
+    <br>(09/2024-03/2026) Tech lead of a system software engineering team focused on large language model training performance
     <br>(01/2020-09/2024) Senior Computer Architect, developing and analyzing the core technologies for LLM training performance
     <br>SW and HW co-design for deep learning performance optimization
     <br>System performance engineering for LLM training acceleration
