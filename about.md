@@ -119,14 +119,14 @@ For more details about me, please refer <a href="https://drive.google.com/file/d
 
     <li>
     <b>Scalable training of mixture-of-experts models with megatron core,</b>
-    <br>Co-authored with many NVIDIAns
+    <br>Co-authored with many NVIDIA researchers and engineers
     <br><i>Publication @arXiv, Mar 2026.</i>
     <a href="https://arxiv.org/pdf/2603.07685" style="text-decoration : none;color: #cc0000">[Paper]</a>
     </li><br>
 
     <li>
     <b>Nemotron-h: A family of accurate and efficient hybrid mamba-transformer models,</b>
-    <br>Co-authored with many NVIDIAns
+    <br>Co-authored with many NVIDIA researchers and engineers
     <br><i>Publication @arXiv, Apr 2024.</i>
     <a href="https://arxiv.org/pdf/2504.03624" style="text-decoration : none;color: #cc0000">[Paper]</a>
     </li><br>
