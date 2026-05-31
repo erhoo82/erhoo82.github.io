@@ -22,15 +22,15 @@ For more details about me, please refer <a href="https://drive.google.com/file/d
 <h2>Education<hr></h2>
 <ul>
     <li>
-    <div style="float: left"><b>Ph.D.</b> in Electrical and Computer Engineering, <b>The Univerisity of Texas at Austin</b>, Austin, TX</div>
+    <div style="float: left">Ph.D. in Electrical and Computer Engineering, The Univerisity of Texas at Austin, Austin, TX</div>
     <div style="float: right">12/2019</div>
     </li>
     <li>
-    <div style="float: left"><b>MS.</b> in Electrical and Computer Engineering, <b>The Univerisity of Texas at Austin</b>, Austin, TX</div>
+    <div style="float: left">MS. in Electrical and Computer Engineering, The Univerisity of Texas at Austin, Austin, TX</div>
     <div style="float: right">05/2018</div>
     </li>
     <li>
-    <div style="float: left"><b>BS.</b> in Electrical Engineering, <b>Hanyang University</b>, Republic of Korea</div>
+    <div style="float: left">BS. in Electrical Engineering, Hanyang University, Republic of Korea</div>
     <div style="float: right">02/2008</div>
     </li>
 </ul>
