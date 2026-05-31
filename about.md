@@ -114,7 +114,7 @@ For more details about me, please refer <a href="https://drive.google.com/file/d
     </li>
 </ul>
 
-<h2>Publication<hr></h2>
+<h2>Selected Publication<hr></h2>
 <ul>
 
     <li>
@@ -187,7 +187,7 @@ For more details about me, please refer <a href="https://drive.google.com/file/d
     <br><i>IEEE International Symposium on Performance Analysis of Systems and Software (ISPASS), Mar 2019</i>
     <a href="https://arxiv.org/pdf/1904.01691.pdf" style="text-decoration : none;color: #cc0000">[Paper]</a>
     <a href="https://drive.google.com/open?id=13bkgjCs2E9GXS2Hkk3CAQv-4gQlaiD8m" style="text-decoration : none;color: #cc0000">[Slides]</a>
-<!-- Acceptance rate: 29.5%-->
+<!-- Acceptance rate: 29.5%
     </li><br>
 
     <li>
@@ -195,7 +195,7 @@ For more details about me, please refer <a href="https://drive.google.com/file/d
     <br>Chun-Kai Chang, <b><u>Sangkug Lym</u></b>, Nicholas Kelly, Michael B. Sullivan, and Mattan Erez
     <br><i>International Conference for High Performance Computing, Networking, Storage and Analysis (SC), Nov 2018</i>
     <a href="http://lph.ece.utexas.edu/merez/uploads/MattanErez/sc18_hamartia.pdf" style="text-decoration : none;color: #cc0000">[Paper]</a>
-<!-- Acceptance rate: 24.1%-->
+    Acceptance rate: 24.1%
     </li><br>
 
     <li>
@@ -205,22 +205,22 @@ For more details about me, please refer <a href="https://drive.google.com/file/d
     <a href="https://ieeexplore.ieee.org/abstract/document/8416231/" style="text-decoration : none;color: #cc0000">[Paper]</a>
     <a href="http://lph.ece.utexas.edu/users/hamartia/" style="text-decoration : none;color: #cc0000">[Code]</a>
     </li><br>
-
+--> 
     <li>
     <b>ERUCA: Efficient DRAM Resource Utilization and Resource Conflict Avoidance for Memory System Parallelism,</b>
     <br><b><u>Sangkug Lym</u></b>, Heonjae Ha, Yongkee Kwon, Chun-Kai Chang, Jungrae Kim, and Mattan Erez
     <br><i>IEEE 24th International Symposium on High-Performance Computer Architecture (HPCA), Feb 2018</i>
     <a href="http://lph.ece.utexas.edu/merez/uploads/MattanErez/eruca_hpca18.pdf" style="text-decoration : none;color: #cc0000">[Paper]</a>
     <a href="https://drive.google.com/open?id=1fCXr7KSISGBi3Z6_SOUPa9Sl-MrrCla1" style="text-decoration : none;color: #cc0000">[Slides]</a>
-<!-- acceptace rate: 20.8%    --> 
+<!-- acceptace rate: 20.8% --> 
     </li><br>
-
+<!--
     <li>
     <b>DUO: Exposing On-chip Redundancy to Rank-Level ECC for High Reliability,</b>
     <br>Seong-Lyong Gong, Jungrae Kim, <b><u>Sangkug Lym</u></b>, Michael Sullivan, Howard David, and Mattan Erez
     <br><i>IEEE 24th International Symposium on High-Performance Computer Architecture (HPCA), Feb 2018</i>
     <a href="http://lph.ece.utexas.edu/merez/uploads/MattanErez/duo_hpca18.pdf" style="text-decoration : none;color: #cc0000">[Paper]</a>
-<!-- acceptace rate: 20.8%    --> 
+    acceptace rate: 20.8%
     </li><br>
 
     <li>
@@ -228,7 +228,7 @@ For more details about me, please refer <a href="https://drive.google.com/file/d
     <br>Jungrae Kim, Michael Sullivan, <b><u>Sangkug Lym</u></b>, and Mattan Erez
     <br><i>ACM/IEEE 43rd International Symposium on Computer Architecture (ISCA), June 2016.</i>
     <a href="http://lph.ece.utexas.edu/merez/uploads/MattanErez/isca2016_aiecc.pdf" style="text-decoration : none;color: #cc0000">[Paper]</a>
-<!-- acceptace rate: 19.5%    --> 
+    acceptace rate: 19.5%    --> 
     </li>
 </ul>
 
