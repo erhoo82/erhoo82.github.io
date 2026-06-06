@@ -47,7 +47,7 @@ For more details about me, please refer <a href="https://drive.google.com/file/d
     <br>(01/2020-09/2024) Senior Deep Learning Architect
     <br>SW and HW co-design for large language model training performance optimization
     <br>System software and performance engineering for large language model training training acceleration
-    <br>Projects: <a href="https://github.com/NVIDIA/Megatron-LM" style="text-decoration : none;color: #cc0000">Megatron</a>, and <a href="https://github.com/NVIDIA/TransformerEngine" style="text-decoration : none;color: #cc0000">Transformer Engine</a>, <a href="https://github.com/NVIDIA/NeMo" style="text-decoration : none;color: #cc0000">NeMo</a>, <a href="https://github.com/NVIDIA-NeMo/RL" style="text-decoration : none;color: #cc0000">NeMo-RL</a>, <a href="https://developer.nvidia.com/blog/tag/mlperf/" style="text-decoration : none;color: #cc0000">MLPerf Training</a>, <a href="https://developer.nvidia.com/topics/ai/nemotron" style="text-decoration : none;color: #cc0000">NVIDIA Nemotron</a>
+    <br>Projects: <a href="https://github.com/NVIDIA/Megatron-LM" style="text-decoration : none;color: #cc0000">Megatron</a>, <a href="https://github.com/NVIDIA/TransformerEngine" style="text-decoration : none;color: #cc0000">Transformer Engine</a>, <a href="https://github.com/NVIDIA/NeMo" style="text-decoration : none;color: #cc0000">NeMo</a>, <a href="https://github.com/NVIDIA-NeMo/RL" style="text-decoration : none;color: #cc0000">NeMo-RL</a>, <a href="https://developer.nvidia.com/blog/tag/mlperf/" style="text-decoration : none;color: #cc0000">MLPerf Training</a>, <a href="https://developer.nvidia.com/topics/ai/nemotron" style="text-decoration : none;color: #cc0000">NVIDIA Nemotron</a>
     </li><br>
 
 
