@@ -42,11 +42,12 @@ For more details about me, please refer <a href="https://drive.google.com/file/d
     <br>
     <div style="float: left"><b><i>Senior Manager @Deep learning architecture group</i></b></div>
     <div style="float: right">01/2020 - Current</div>
-    <br>(03/2026-Current) Senior Manager, leading a system software and performance engineering team for LLM training performance
-    <br>(09/2024-03/2026) Tech Lead, leading a system software engineering team focused on LLM training performance
-    <br>(01/2020-09/2024) Senior Computer Architect, developing and analyzing the core technologies for LLM training performance
-    <br>SW and HW co-design for deep learning performance optimization
-    <br>System performance engineering for LLM training acceleration
+    <br>(03/2026-Current) Senior Manager
+    <br>(09/2024-03/2026) Tech Lead
+    <br>(01/2020-09/2024) Senior Deep Learning Architect
+    <br>SW and HW co-design for large language model training performance optimization
+    <br>System software and performance engineering for large language model training training acceleration
+    <br>Projects: Megatron, Transformer Engine, NeMo, NeMo-RL, MLPerf Training, Nemotron
     </li><br>
 
 
