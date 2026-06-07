@@ -19,22 +19,6 @@ My dissertation, <a href="https://repositories.lib.utexas.edu/bitstream/handle/2
 For more details about me, please refer <a href="https://drive.google.com/file/d/1CULApc_B5PO3Y-yyvglcBBEfrSOg9LtF/view?usp=sharing" style="text-decoration : none;color: #cc0000"> my resume</a>.
 </p>
 
-<h2>Education<hr></h2>
-<ul>
-    <li>
-    <div style="float: left">Ph.D. in Electrical and Computer Engineering, The Univerisity of Texas at Austin, Austin, TX</div>
-    <div style="float: right">12/2019</div>
-    </li>
-    <li>
-    <div style="float: left">MS. in Electrical and Computer Engineering, The Univerisity of Texas at Austin, Austin, TX</div>
-    <div style="float: right">05/2018</div>
-    </li>
-    <li>
-    <div style="float: left">BS. in Electrical Engineering, Hanyang University, Republic of Korea</div>
-    <div style="float: right">02/2008</div>
-    </li>
-</ul>
-
 <h2>Research and Work Experience<hr></h2>
 <ul>
     <li>
@@ -112,6 +96,22 @@ For more details about me, please refer <a href="https://drive.google.com/file/d
     <br>PCRAM architecture design and memory core functionality optimization
     <br>PCRAM data interface and physical layout design
     <br>Wafer-level PCRAM functionality analysis and SLC and MLC cell transition characteristic evaluation
+    </li>
+</ul>
+
+<h2>Education<hr></h2>
+<ul>
+    <li>
+    <div style="float: left">Ph.D. in Electrical and Computer Engineering, The Univerisity of Texas at Austin, Austin, TX</div>
+    <div style="float: right">12/2019</div>
+    </li>
+    <li>
+    <div style="float: left">MS. in Electrical and Computer Engineering, The Univerisity of Texas at Austin, Austin, TX</div>
+    <div style="float: right">05/2018</div>
+    </li>
+    <li>
+    <div style="float: left">BS. in Electrical Engineering, Hanyang University, Republic of Korea</div>
+    <div style="float: right">02/2008</div>
     </li>
 </ul>
 
