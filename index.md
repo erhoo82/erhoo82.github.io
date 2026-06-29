@@ -119,6 +119,13 @@ For more details about me, please refer <a href="https://drive.google.com/file/d
 <ul>
 
     <li>
+    <b>Nemotron 3 Ultra: Open, Efficient Mixture-of-Experts Hybrid Mamba-Transformer Model for Agentic Reasoning,</b>
+    <br>Co-authored with many NVIDIA researchers and engineers
+    <br><i>Publication @arXiv, Mar 2026.</i>
+    <a href="https://arxiv.org/pdf/2606.15007" style="text-decoration : none;color: #cc0000">[Paper]</a>
+    </li><br>
+
+    <li>
     <b>Scalable training of mixture-of-experts models with megatron core,</b>
     <br>Co-authored with many NVIDIA researchers and engineers
     <br><i>Publication @arXiv, Mar 2026.</i>
